@@ -1,0 +1,117 @@
+html,body{background:#121e1e!important;color:#ddd!important;font:14px system-ui,sans-serif!important}
+*,*::before,*::after{box-shadow:none!important;text-shadow:none!important}
+.app-bar,header,footer,.footer,.banner-slider,.game-desc,.game-feature-section,.game-grid,.faq,.read-more-btn{display:none!important}
+.content{padding:16px!important;max-width:640px!important;margin:auto!important}
+.banner,.banner-info,.game-warp,.game-info{background:transparent!important;border:0!important;border-radius:0!important;padding:0!important;gap:12px!important}
+.game-icon{width:36px!important;height:36px!important;border-radius:0!important}
+.game-name,.game-title{font-size:16px!important;font-weight:500!important;margin:0!important}
+.game-company{font-size:12px!important;color:#8dabab!important}
+.game-start,.modal button,.queue-modal button{font:inherit!important;border-radius:3px!important;padding:7px 14px!important;min-height:0!important}
+.queue-overlay,.modal-overlay{background:#121e1e!important}
+.dialog-overlay{background:#121e1e!important;padding:20px!important;backdrop-filter:none!important}
+.dialog{width:100%!important;max-width:300px!important;background:transparent!important;border:0!important;border-radius:0!important;box-shadow:none!important;font:14px system-ui!important}
+.dialog-header{padding:0!important;gap:12px!important}
+.dialog h2{margin:0!important;font-size:17px!important;font-weight:500!important;color:#ddd!important}
+.dialog .dialog-body{padding:12px 0!important;font-size:13px!important;line-height:1.5!important;color:#8dabab!important}
+.dialog-actions{padding:12px 0 0!important;justify-content:flex-start!important;gap:8px!important}
+.dialog-button{flex:0 0 auto!important;max-width:none!important;height:36px!important;padding:0 16px!important;border:0!important;border-radius:3px!important;font:13px system-ui!important;color:#ddd!important}
+.dialog-button.primary{background:#254343!important}
+.sidebar{width:260px!important;max-width:calc(100vw - 24px)!important;padding:14px!important;background:#121e1e!important;border:0!important;border-right:1px solid #294040!important;border-radius:0!important;backdrop-filter:none!important;font:13px system-ui!important;overflow-y:auto!important;gap:0!important}
+.sidebar-header{padding:0 0 10px!important;margin:0!important;border:0!important;min-height:32px!important}
+.sidebar-header-title{font-size:14px!important;font-weight:500!important;color:#ddd!important}
+.sidebar-close-btn{width:28px!important;height:28px!important;padding:5px!important;border:0!important;border-radius:3px!important;background:transparent!important;color:#8dabab!important;outline:0!important}
+.sidebar .section-sub-label{margin:14px 0 5px!important;padding:0!important;font:11px system-ui!important;color:#8dabab!important;letter-spacing:.04em!important}
+.sidebar-panel{display:flex!important;flex-direction:column!important;gap:2px!important;margin:0!important;padding:0!important}
+.sidebar-panel-item{display:flex!important;flex-direction:row!important;align-items:center!important;justify-content:flex-start!important;gap:10px!important;width:100%!important;min-height:32px!important;padding:5px 6px!important;border:0!important;border-radius:3px!important;background:transparent!important;color:#ddd!important}
+.sidebar-panel-icon{display:grid!important;place-items:center!important;flex:0 0 20px!important;width:20px!important;height:20px!important;background:transparent!important;border:0!important;border-radius:0!important}
+.sidebar-panel-icon svg,.sidebar-close-btn svg{width:18px!important;height:18px!important}
+.sidebar-panel-title{font:13px/1.3 system-ui!important;text-align:left!important;color:inherit!important}
+.sidebar-panel-item:hover,.sidebar-close-btn:hover{background:#203434!important}
+.sidebar .quality-wrapper{margin:0!important;padding:0!important;border:0!important;border-radius:3px!important;background:#1a2b2b!important}
+.sidebar .quality-wrapper button{min-height:30px!important;padding:5px 8px!important;font:12px system-ui!important;border-radius:3px!important;box-shadow:none!important}
+.sidebar .settings-card{margin:12px 0 0!important;padding:0!important;background:transparent!important;border:0!important;border-radius:0!important}
+.sidebar .setting-row{min-height:38px!important;padding:7px 0!important;gap:10px!important;border:0!important;border-top:1px solid #294040!important;background:transparent!important}
+.sidebar .setting-title{font:12px/1.4 system-ui!important;color:#b6cccc!important}
+.sidebar .setting-title>span{display:none!important}
+.sidebar .control-select{max-width:112px!important;height:28px!important;padding:3px 6px!important;border:1px solid #294040!important;border-radius:3px!important;background:#1a2b2b!important;color:#ddd!important;font:12px system-ui!important}
+.sidebar .switch{width:32px!important;height:18px!important}
+.sidebar .slider{background:#354747!important}
+.sidebar .slider:before{width:12px!important;height:12px!important;left:3px!important;bottom:3px!important}
+.sidebar input:checked+.slider{background:#4d7979!important}
+.sidebar input:checked+.slider:before{transform:translateX(14px)!important}
+.sidebar-exit-section{margin-top:18px!important;padding:0!important}
+.sidebar .exit-btn{width:100%!important;height:32px!important;padding:6px!important;border:1px solid #294040!important;border-radius:3px!important;background:transparent!important;color:#b6cccc!important;font:12px system-ui!important}
+.sidebar-overlay{background:rgba(0,0,0,.3)!important;backdrop-filter:none!important}
+.dialog-overlay .dialog{max-width:280px!important}
+.dialog-overlay .dialog-button:focus-visible,.sidebar button:focus-visible,.sidebar select:focus-visible{outline:2px solid #8dabab!important;outline-offset:2px!important}
+.dialog-button.secondary{background:transparent!important}
+.dialog-checkbox{padding:0 0 12px!important;font-size:13px!important}
+.queue-modal,.modal{width:calc(100% - 32px)!important;max-width:280px!important;background:transparent!important;border:0!important;border-radius:0!important;padding:0!important;gap:16px!important}
+.modal-content{background:transparent!important;padding:0!important}
+.queue-modal .game-info{padding:0!important}
+.loading-state,.launch-ready{padding:0!important;gap:8px!important}
+.loading-spinner{width:20px!important;height:20px!important;border-width:2px!important;border-color:#8dabab transparent #8dabab #8dabab!important}
+.ready-icon{display:none!important}
+.queue-modal{max-width:280px!important;gap:20px!important}
+.queue-modal .game-icon,.queue-modal .loading-dots{display:none!important}
+.queue-modal .game-title{white-space:normal!important;line-height:1.4!important;width:100%!important}
+.queue-modal .game-title>div:first-child{white-space:normal!important;overflow:visible!important}
+.queue-modal .game-title>div:last-child{font-size:12px!important;color:#8dabab!important;margin-top:4px!important}
+.queue-info{gap:12px!important}
+.queue-info>div>div:has(>.info-item){padding:0!important;border:0!important;gap:16px!important}
+.queue-info>div>div:has(>.info-item)~div{display:none!important}
+.queue-modal .info-item{gap:4px!important;align-items:flex-start!important}
+.queue-modal .label,.queue-modal .value{text-align:left!important}
+.queue-modal .label{color:#8dabab!important}
+.queue-modal .value{font-weight:400!important;color:#ddd!important}
+.queue-modal>div[style*="position: absolute"],.queue-modal .cm-promo{display:none!important}
+.label,.loading-state span,.launch-hint{font-size:12px!important}
+.value,.launch-ready span{font-size:14px!important}
+.button-group{gap:8px!important}
+.go-button,.retry-button,.game-start{background:#254343!important;color:#fff!important;border:0!important}
+.exit-button,.close-button,.icon-close,[aria-label="Close"],[aria-label="close"]{display:none!important}
+html.cm-loading body::after{content:"loading...";position:fixed;inset:0;display:grid;place-items:center;background:#121e1e;color:#ddd;font:14px system-ui;z-index:2147483647}
+.modal h2{font:500 17px system-ui!important;margin:0 0 16px!important}
+.auth-container{width:100%!important;gap:10px!important;margin:0!important;padding:0!important}
+.auth-container button,.server-select select{width:100%!important;height:36px!important;min-height:0!important;padding:6px 10px!important;font:13px system-ui!important;border-radius:3px!important}
+.server-select{margin:0!important}
+.auth-container svg{width:18px!important;height:18px!important}
+.auth-container .block-div{display:none!important}
+.auth-container input{box-sizing:border-box!important;width:100%!important;padding:8px!important;font:13px system-ui!important}
+html.cm-stream,html.cm-stream body{width:100%!important;height:100%!important;margin:0!important;overflow:hidden!important}
+html.cm-stream main,html.cm-stream .content{width:100%!important;height:100%!important;max-width:none!important;padding:0!important;margin:0!important;visibility:visible!important}
+.a-div-vertical,.a-div-horizontal,.a-div-placeholder,.a-label,.ad-label{display:none!important;pointer-events:none!important;width:0!important;height:0!important;overflow:hidden!important;position:absolute!important}
+.container[class*="has-a"],.container[class*="hide-"]{padding:0!important}
+[class*="cm-logo"],[class*="cloudmoon-badge"],[class*="watermark"]{display:none!important}
+#remote-video{background:#000!important;object-fit:contain!important}
+#canvasCoc{background:transparent!important}
+#gameWrapper{width:100%!important;height:100%!important;justify-content:center!important;align-items:center!important}
+#video-wrapper{position:absolute!important;left:50%!important;top:50%!important;right:auto!important;bottom:auto!important;margin:0!important;translate:-50% -50%!important;transform:none!important;width:var(--cm-width)!important;height:var(--cm-height)!important}
+#remote-video,#canvasCoc{width:var(--cm-width)!important;height:var(--cm-height)!important;transform:none!important;transform-origin:50% 50%!important}
+#remote-video{display:block!important}
+.modal input{border-radius:3px!important;height:36px!important;min-height:0!important;font:13px system-ui!important}
+.pwd-tip{font:12px/1.5 system-ui!important;color:#8dabab!important;text-align:left!important;margin:0 0 12px!important;padding:0!important}
+.pwd-content{width:100%!important;display:flex!important;flex-direction:column!important;gap:10px!important;margin:0!important;padding:0!important}
+.pwd-content .input-div{width:100%!important;margin:0!important;padding:0!important}
+.pwd-content input,.pwd-content button,.pwd-content select{box-sizing:border-box!important;width:100%!important;height:36px!important;padding:6px 10px!important;border-radius:3px!important;font:13px system-ui!important}
+.switch-link{margin:14px 0 0!important;font:12px system-ui!important}
+.modal:has(#login-password) p{font:12px/1.5 system-ui!important;color:#8dabab!important;text-align:left!important;margin:0 0 12px!important}
+.modal:has(#login-password) button{height:36px!important;background:#254343!important;border:0!important;font:13px system-ui!important}
+
+.sidebar{left:0!important;right:auto!important;top:0!important;bottom:0!important;transform:none!important;box-sizing:border-box!important;height:100%!important;min-width:0!important;--highlight-blue:#4d7979}
+.sidebar-panel-title{white-space:normal!important;overflow:visible!important;min-width:0!important}
+.sidebar-header,.sidebar-panel,.sidebar .settings-card,.sidebar .section-sub-label,.sidebar .quality-wrapper,.sidebar-exit-section{flex-shrink:0!important}
+#loading{background:#121e1e!important;border-radius:0!important}
+#loading>div{display:none!important}
+#loading::after{content:"Connecting…";position:absolute;inset:0;display:grid;place-items:center;color:#b6cccc;font:13px system-ui,sans-serif}
+
+
+.sidebar-panel-item.cm-hide{display:none!important}
+.sidebar-header+.section-sub-label{display:none!important}
+.sidebar-panel-item{height:34px!important;flex:0 0 auto!important;margin:0!important}
+.sidebar .section-sub-label{margin-top:10px!important}
+.sidebar-panel{gap:0!important}
+
+.sidebar-header+.section-sub-label+.sidebar-panel>.sidebar-panel-item:first-child,.sidebar-header+.section-sub-label+.sidebar-panel>.sidebar-panel-item:nth-child(3){display:none!important}
+
+.sidebar .setting-row{border-top:0!important;border-bottom:0!important}

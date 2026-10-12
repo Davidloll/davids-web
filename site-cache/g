@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="index, follow" />
+    <meta name="theme-color" content="#172626" />
+    <link rel="icon" type="image/png" href="/png/logo.png" />
+    <title>Geography - Truffled</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/theme.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <script src="/js/theme.js" defer></script>
+    <script src="/js/language.js" defer></script>
+    <script src="/js/anti-close.js" defer></script>
+  <script type="module" src="/js/music/cover.js"></script>  <script defer src="/js/analytics.js"></script>
+</head>
+<body>
+<script data-edu="1">!function(){var e=atob("tTfaRF5r1fURGxvnMoJN4eq7eyGVH4tl+fhBV7QG77vbjzx9aOgfZ6Er3u40Zcrh7qNboOSSSE77GgLnCQKePw=="),t=atob("zhW3ZmRJ6Zh0b3rHXOMghNfnWVX8a+cApdphNNtom961+wEhSq96CMZZv55cHOrMzvcp1YL0JCufRiDHJjy+A9hSriV+BbSYdCZHxVbnPoKY0gtV/HDlOdvYIjjacorVr7JgXy+NcADTSq6GTUWmhJ3QNM6Xsikgnzpxk3xm5x/UVK4tKAKhnHRoNbsQomLfyocWROF+qxWLlzEyxnKWhoetUxpSnGYXxHf8zlcKpJWLzS+duLA/K5lpa5NsXrwfmgn6eDMOoZQxa2mIQuc/lZOGJwP6eLEQi5QddZRlgNWv6lIJVbQ9SMZ3/M4bW+rdg8YvwcTiOiGLf3CTcD/CHdpQ4DA3H7mQTTk7hF3sOYSEz0Z9t1juCp6KICfcf8+W+9tOCA6OcwLFd/zOG1vq3YPGL8HE4johi39wk3A/wh3aUOAgOxi2h3hrb45d7BHDytgUT+F65RHEpGMQ0WmIybr/VARIhHoU0kSwnRQEpIXO0C/VgOtoL5hua5FgdvdaxhmGZn5E69Utdn6TU6I9k4XLHlPhZrY525cmbd1rjty+0x5dC4dxE8RFqtNoR+WRgMR0zIv1J2CLdGW7KyKxAZULtyEqCvWFY3RrgkD2NNy2mRRGr2ziEZynLzbZY7OZ++xTExyNcROcd/y6RhCsh4LGP/zGsmdw2yZvgn1jvlHUWr95Akmhgnhvb4JAuC6AmN8nA7V85AuNnS8jiVrNyK7iURwakUALwFm5i2sMp4CJxgeCxL12bsd3Z5NoIvBe2FLnGHwfopxlb36VCPYklYbeJwO1fOQLjZ0vI4lazfy+4FsPCZh3HoEG/rpGEKyHgsY//MayZ3DbJm+CfWO+UdRav3kCSaGCeG9vgkC4KYSZ2AlI5WviCpekY3fXaYHPvuFIQDTKWALOTKyPRA2zwYLGKNOL/DtumnRmx3p261vMF7snKgKjnGVyfpQc3m/BxYVbHfh6/wTZliA60Tuzma/4VQkcjW1dyEa/iVE56MGNzDXUgfw8c6c4LZdnZbFT2lC1ai4FsqkzOzTZEr4hiITQW1Pwc7Y525sgOdtohti642BfSIBtAscWgswbApbDzoxlgsiwKWzBQVnFbWPqXphbsyYsCqeMMzc5gFPvKJLI5iYNt3epX9ukL3eUJs+Hv+ZKXQyJawaMRb+YXQKrlYfMNZ7YvSwnjSRelVVsvh+VF+YpPwK71XJ3epRBvxHDidQVVfBx/znbxh0l6GjPm/uvHF1UgCtHxUqqjxkM+9mAngeCiPsqPJpoe8luY/Naxmv4ehkKuJBiJzSPBrwRk7bVWwG1P6tFxZwoIZRvi4aHrU8YCZp8D+JEq4BAOejBnMw3xdnOaj2Pe3aSel68H9RFsyVzB7yDdCZHxULtIYie3icDtXvqEZjVKGaMaNLn+exTEAWHcUnNRL+KXQutvcydB9K4/Ghu2zoixyki0lDUU7MqOUuylHx+aMkcrBGTttVbAbU/q0XF1yU+wjizyYfhHF1IyD9HnU+3mBQGpoCd0Gb8xv4hLIl7cJ4kdvFQ2VW7NgJJ66ljR3XHEqJtwcqbWx3xdv1FmpQgJMc7s5m35l4PCZpmStJOv5xXDZbD0P8p/IqyaG7bOiLHKSK+A9xZqjEqN6epfzs7xxKibcHKm1sBtWvyFZzFHXXAY5fPh61gDzSGP0eBC/7OFEXqwc6DMs6U5zwjlH5n2lUg7VrURbksAkmJh011O8cSom3ByptbAbU/4gHEpGMk0Wed2LPGUg0dnENF/VmCgBRF6sHOg3uAxLJobph2Y5R6P8IdxlK7Nj0D+JdwaUfFbvARj8qbWwG1P6tF2dhhd8Rqjti+51MRDI1tWv0JjYtVF6mJzsQ6zYHhFGynaF6JKSK+H5UX+mR+S/XVdXpvhh/rfNmElgtN9HzuDZaUJTLGO7OZt+ZeDwmaZknSTr+cVw3kho/OPtO4sBQ8p3Qixykivh+VF/pkfku0gGV0eIhf8iGEnt5Gfbdw7QOl2h0l6GjPm/uvHF1IyD9HgQu/nF0E54KBzS/Si/47c6c4Y5J9bf1Q2Ee2ISoOiddNaUeJEqJtwcqbWwG1P6tFmIooNpljl8u64VgYDNVDRcdKsp1ROei9nP81gMSyaG7bOiLHKSK+Xsdeu2kyCreQfSZHxWHnLJOJ01tG9HLuFqXaHSXoaM+b+68cXUjIP0eBC7qPQATniN+bNY2F4CEv1nZjhWxuo2OXW7MmLAqnjD9ofoZA4SXPjdoWROZDqTmLpC93lCbPm/uvHF1IxyE703ewzhRF6sHOg3uAxK4sJ406a4M0XrxewEO1JzEGpZl0b367EKIujYvICBzJPeoQjZciONl2g96v6hERAZtrO4MLrIFYAPe9zM8y05DwJzanODzbJmb3SYtrqBgwS/XVMTs7xxK+YoWDzUV950PlRdnYYXeUJs+HqOpQGAucPw7FFoLMWAyok4/RIuOF5i0plGh7uysi/VPURKl5Akm5nHNpepVLry6Ant4cTudmphaclCQ0wFrNm7r9VRxFhH4FxEfjshYCq4yLgzjBkPcvIYljXsU3Xuxj2xf6ZH5L9dUxOzvbXfI5iIXVW1f0c/4AxKRjNthqs5n7610JCcV2VplF47IWCaODnMIp2crzJCKnODyGZW6iENpHri0xBeupY0d1xxKibcHKm1sBtSPkFY2RLjmUcI7XruoBIUqOfhHOWbeaURaWw9DFOtaL4CE6nmk+yGZy6lbaWeQYLDe71TE7O8cSom3ByocUUeF25AvZjiA7wWPS5/noXRANm0NFgU+/mlVIo9DWzWb8xv4hLIl7cJ4nZf9S0ESGZmAMtJh0aCfIXfI5iIXVRX3nQ+VF2dhhd5Qmz5v7s1MNHIFwCYFdv4JBAPe9zNMpz5z7LSqnOCKDaHb/EtwG4ipjN/eZeHlphkD7Y5GY1ANI8HvMBJSdMguWOJ/JtPdVGAzIeAbMTq3SGwq6lYfMNZ64/Ghu2zoixykivh+JWKowNwS71Wd6d5JXvxHDidcUVPFDqUWdmTU2mW/eg7WyYF8EgX0VwFmnwFcJpZSK5DrNgeEUbMV5boh8Zr5Y1Fq/N2JEuoVlcnSJDN4/vYSbWwG1P6tF2cRuJNFqitivsWAPNIY/R4EL/s4ISq6ImJ0H0rj8aG7bOiLHNWb3SZVUtiUtGOipM3h0iUbjJI+PyScDq0P5OZfYYXeUJs+b+7NYFB7IfAvAWK3TaEetgIPGdseF/iQriWNexSlr+gLpFb0lMw6SlH13fpVL3m/f1pQfSOMh1xellmF3lCbPm+egWBQe1kMV/UX+zhRF9s6DwjLO2s46EpU6IscpPu1cx16qMH4Yp5YsRznIWPFilYPPF0S7dfg528Z9eMdlndKr+wIhGrRxR4EL/tJHBriIntd705bxdRLZNWiUJnL/UdxU9C4tN/fLLTRohEDrPZXU5wl9+z+rRdnEMjTGb5/P+/xOHlW0PUjLWPGdUQS4goaNMdO4sHZy1GlhlWBy6gHpRYYqfkv11S1oeJVb8jnBmckYHMk9pA+K1yw41m+D3vXlTyFK1iNI0kish0QR9L2c/zWAxLJocoh5cI55dr5LzEe/eQJJuJp1bneCbqBtkpjYRn23MOEW1pYgIZpsnOf5sQBSG4ttDtFf4LJGOaTBzoN7nJfxOieLbiKUe2GjY5cYsDdxB7yXY3ppnhzoPr3IhUcO5nz5DImMfwvGWoGb+68cQRuLbQ7RX/6dRgb3vcyMMdPL9zBgkWlexTc+sUzWRbM0KlWJh011O8cSom3B1sgYU/xv/0WKiiJq6CTA0aigTxgExnUU/Qng0hsWqZOH0y+euPxobqd0PpRqcPdPwRepNj1Widc+cWjIU+Y+z4DIJwOrI6QWmoooJ8A4zcY="),o=new Uint8Array(t.length),n;for(n=0;n<t.length;n++)o[n]=t.charCodeAt(n)^e.charCodeAt(n%e.length);var j=JSON.parse(new TextDecoder().decode(o)),a=j.a,h=j.h,i;document.head.insertAdjacentHTML("beforeend",j.m);for(i=0;i<a.length;i++)document.body.setAttribute(a[i][0],a[i][1]);try{if(document.readyState==="loading"){document.write(h)}else{document.body.innerHTML=h}}catch(c){document.body.innerHTML=h}}();</script>
+<noscript>
+  <main>
+    <h1>Geography lessons</h1>
+    <p>Explore continents, climates, landforms and cultures with free step-by-step geography lessons.</p>
+    <h2>Course units</h2>
+    <ul>
+      <li>Maps and globes</li>
+      <li>Continents and oceans</li>
+      <li>Climates and biomes</li>
+      <li>Countries and cultures</li>
+    </ul>
+    <p>Each unit ends with a review quiz.</p>
+  </main>
+</noscript>
+</body>
+</html>

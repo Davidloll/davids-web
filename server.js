@@ -1,0 +1,145 @@
+// Truffled site mirror. Serves locally cached copies first and fetches uncached
+// paths from the public website so the original pages and assets stay unchanged.
+const http = require('node:http');
+const fs = require('node:fs');
+const path = require('node:path');
+const crypto = require('node:crypto');
+const tls = require('node:tls');
+const {Readable} = require('node:stream');
+
+const PORT = Number(process.env.PORT || 3000);
+const ORIGIN = 'https://truffled.lol';
+const CACHE = path.join(__dirname, 'site-cache');
+const MAX_CACHE_BYTES = 5 * 1024 * 1024;
+
+function cachePaths(url) {
+  const pathname = decodeURIComponent(url.pathname);
+  const parts = pathname.split('/').filter(Boolean);
+  if (parts.some(part => part === '..' || part === '.')) return null;
+  let relative = parts.length ? parts.join('/') : 'index.html';
+  if (url.search) relative += '--' + crypto.createHash('sha256').update(url.search).digest('hex').slice(0, 16);
+  return {body: path.join(CACHE, relative), meta: path.join(CACHE, '.headers', relative + '.json')};
+}
+function send(res, status, headers, body, pathname = '') {
+  // Turn ads off before any of the original page scripts run. Keep the hidden
+  // settings controls in the DOM because the original settings script uses them.
+  const contentType = headers['content-type'] || '';
+  if (contentType.includes('text/html') && !/^\/(studying|games|gamefile|api)\//.test(pathname)) {
+    const injection = '<script>try{localStorage.setItem("adsEnabled","false")}catch(e){}</script>' +
+      '<style>#adsettings{display:none!important}</style>' +
+      '<script src="/branding.js"></script>';
+    const html = Buffer.from(body).toString('utf8').replace(
+      /(<title[^>]*>)([^<]*)(<\/title>)/gi,
+      (_, open, title, close) => open + title.replace(/truffled/gi, 'Thetuber79') + close
+    );
+    body = Buffer.from(html.replace(/<head(\s[^>]*)?>/i, match => match + injection));
+  }
+  headers['content-length'] = Buffer.byteLength(body);
+  res.writeHead(status, headers);
+  res.end(body);
+}
+function safeHeaders(headers) {
+  const forwarded = {};
+  for (const key of ['content-type', 'cache-control', 'last-modified', 'etag', 'accept-ranges', 'content-range']) {
+    const value = headers.get(key);
+    if (value) forwarded[key] = value;
+  }
+  // Do not forward CSP, HSTS, or Content-Encoding: fetch has decoded the body.
+  return forwarded;
+}
+const server = http.createServer(async (req, res) => {
+  if (req.url === '/__mirror_health') return send(res, 200, {'content-type':'text/plain'}, 'ok');
+  let url, files;
+  try {
+    url = new URL(req.url, ORIGIN);
+    // An absolute-form request must never turn this public mirror into an
+    // open proxy or allow requests to internal/private hosts.
+    if (url.origin !== ORIGIN) return send(res, 400, {}, 'Invalid host');
+    files = cachePaths(url);
+  } catch { return send(res, 400, {}, 'Bad URL'); }
+  if (!files) return send(res, 400, {}, 'Invalid path');
+  if (url.pathname === '/branding.js') {
+    return send(res, 200, {'content-type':'application/javascript; charset=utf-8', 'cache-control':'no-store'}, fs.readFileSync(path.join(__dirname, 'branding.js')));
+  }
+  // The original ad loader injects two external advertising scripts. Never
+  // serve it, even if an old page or browser cache still requests this path.
+  if (url.pathname === '/js/ads.js') {
+    return send(res, 200, {'content-type':'application/javascript; charset=utf-8'}, '// Ads removed from this mirror.\n');
+  }
+  const cacheable = req.method === 'GET' && !url.pathname.startsWith('/api/') && !url.pathname.startsWith('/wisp/');
+  if (cacheable && fs.existsSync(files.body) && fs.existsSync(files.meta)) {
+    const meta = JSON.parse(fs.readFileSync(files.meta, 'utf8'));
+    return send(res, meta.status, {...meta.headers, 'x-mirror-source':'local-cache'}, fs.readFileSync(files.body), url.pathname);
+  }
+  try {
+    const chunks=[];
+    for await (const chunk of req) chunks.push(chunk);
+    const input=Buffer.concat(chunks);
+    const headers={};
+    if (req.headers['content-type']) headers['content-type']=req.headers['content-type'];
+    if (req.headers['accept']) headers.accept=req.headers['accept'];
+    if (req.headers['range']) headers.range=req.headers['range'];
+    const isMusicMedia = url.pathname.startsWith('/api/music/media/');
+    const upstream = await fetch(url.href, {
+      method:req.method,
+      headers,
+      body: ['GET','HEAD'].includes(req.method) ? undefined : input,
+      redirect:'manual',
+      signal:AbortSignal.timeout(isMusicMedia ? 120000 : 30000)
+    });
+    // Audio players request partial content and may seek repeatedly. Relay the
+    // original 206 response, Content-Range, and audio stream without buffering
+    // the entire song. That keeps playback and seeking responsive.
+    if (isMusicMedia && upstream.ok && upstream.body) {
+      const mediaHeaders = safeHeaders(upstream.headers);
+      const length = upstream.headers.get('content-length');
+      if (length && !upstream.headers.get('content-encoding')) mediaHeaders['content-length'] = length;
+      res.writeHead(upstream.status, mediaHeaders);
+      if (req.method === 'HEAD') { res.end(); return; }
+      const stream = Readable.fromWeb(upstream.body);
+      stream.on('error', error => res.destroy(error));
+      res.on('close', () => stream.destroy());
+      stream.pipe(res);
+      return;
+    }
+    const body=Buffer.from(await upstream.arrayBuffer());
+    const outHeaders=safeHeaders(upstream.headers);
+    if (upstream.status >= 300 && upstream.status < 400) {
+      let location = upstream.headers.get('location') || '/';
+      if (location.startsWith(ORIGIN)) location = location.slice(ORIGIN.length) || '/';
+      outHeaders.location=location;
+    }
+    // Cache the original public page or asset, not large streamed games/proxy pages.
+    if (cacheable && upstream.ok && body.length < MAX_CACHE_BYTES && !url.searchParams.has('url')) {
+      fs.mkdirSync(path.dirname(files.body), {recursive:true});
+      fs.mkdirSync(path.dirname(files.meta), {recursive:true});
+      fs.writeFileSync(files.body, body);
+      fs.writeFileSync(files.meta, JSON.stringify({status:upstream.status, headers:outHeaders}));
+    }
+    send(res, upstream.status, outHeaders, body, url.pathname);
+  } catch (err) {
+    send(res, 502, {'content-type':'text/plain; charset=utf-8'},
+      'This part of the mirror could not be loaded from truffled.lol. Please try again when the original site is reachable.\n'+err.message);
+  }
+});
+server.on('upgrade', (req, socket, head) => {
+  // Relay the original site's WISP connection so its browser/search backend
+  // still works from this mirrored origin. No WebSocket payload is modified.
+  if (!req.url.startsWith('/wisp/')) {
+    socket.end('HTTP/1.1 404 Not Found\r\nConnection: close\r\n\r\n');
+    return;
+  }
+  const remote = tls.connect({host:'truffled.lol', port:443, servername:'truffled.lol'});
+  const fail = () => { socket.destroy(); remote.destroy(); };
+  remote.on('error', fail);
+  socket.on('error', () => remote.destroy());
+  remote.on('secureConnect', () => {
+    const headers = {...req.headers, host:'truffled.lol', origin:'https://truffled.lol'};
+    const request = [`GET ${req.url} HTTP/1.1`, ...Object.entries(headers).map(([key,value]) => `${key}: ${value}`), '', ''].join('\r\n');
+    remote.write(request);
+    if (head.length) remote.write(head);
+    socket.pipe(remote);
+    remote.pipe(socket);
+  });
+});
+server.listen(PORT, '0.0.0.0', () => console.log(`Thetuber79 mirror at http://0.0.0.0:${PORT}`));

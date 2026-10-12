@@ -1,0 +1,6660 @@
+{
+  "games": [
+    {
+      "name": "1",
+      "url": "/games/1/index.html",
+      "thumbnail": "png/games/1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "1 on 1 Soccer",
+      "url": "/games/1on1soccer/index.html",
+      "thumbnail": "/png/games/12.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "1v1.lol",
+      "url": "/gamefile/1v1.html",
+      "thumbnail": "png/games/1v1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "-3",
+      "url": "/games/minus3/index.html",
+      "thumbnail": "/png/games/minus3.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "10 Minutes Till Dawn",
+      "url": "/games/10minutestilldawn/index.html",
+      "thumbnail": "/png/games/10.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "20 Minutes Till Dawn",
+      "url": "/games/20minutesbog/index.html",
+      "thumbnail": "/png/games/20mtd.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "30",
+      "url": "/games/30dolar/index.html",
+      "thumbnail": "/png/games/30.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "60 Seconds, Webport",
+      "url": "/games/60/index.html",
+      "thumbnail": "/png/games/60.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "2048",
+      "url": "/games/2048/index.html",
+      "thumbnail": "png/games/2048.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Academytale, Webport",
+      "url": "/games/academytale/index.html",
+      "thumbnail": "/png/games/academytale.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Ace Combat 7: Skies Unknown",
+      "url": "/cloud/jy0109",
+      "thumbnail": "png/games/acecombat7.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Ace Racer",
+      "url": "https://web.cloudmoonapp.com/game/com.netease.racerna/",
+      "thumbnail": "/png/games/aceracer.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Achievement Unlocked",
+      "url": "/games/achieveunlocked/index.html",
+      "thumbnail": "/png/games/achieve.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Achievement Unlocked 2",
+      "url": "/games/achivement2/index.html",
+      "thumbnail": "/png/games/au2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Achievement Unlocked 3",
+      "url": "/games/achivement3/index.html",
+      "thumbnail": "/png/games/au3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "A Difficult Game About Climbing, Webport",
+      "url": "/gamefile/adgac.html",
+      "thumbnail": "png/games/adgac.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "ADOFAI",
+      "url": "/games/a-dance-of-fire-and-ice/index.html",
+      "thumbnail": "png/games/adofai.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Adventure Capitalist",
+      "url": "/games/adventure/index.html",
+      "thumbnail": "/png/games/adventure.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "AFK Journey",
+      "url": "https://web.cloudmoonapp.com/game/com.farlightgames.igame.gp/",
+      "thumbnail": "/png/games/afkjourney.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "A Game About Feeding A Blackhole",
+      "url": "/gamefile/blackhole.html",
+      "thumbnail": "/png/games/blackhole.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Ages Of Conflict, Webport",
+      "url": "/games/agesofconflict/index.html",
+      "thumbnail": "/png/games/aoc.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "AI LIMIT",
+      "url": "/cloud/bs0018",
+      "thumbnail": "png/games/ailimit.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Alan Wake 2",
+      "url": "/cloud/kj0357",
+      "thumbnail": "png/games/alanwake2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Alba: A Wildlife Adventure",
+      "url": "/cloud/jy0362",
+      "thumbnail": "png/games/albaawildlifeadventure.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Alchemist: Journey of the Soul",
+      "url": "/cloud/bs0098",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260911/20260911142028276.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Alien Hominid",
+      "url": "/games/alien/index.html",
+      "thumbnail": "/png/games/alien.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "ALLfiring",
+      "url": "https://web.cloudmoonapp.com/game/com.genmugame.prometheus/",
+      "thumbnail": "/png/games/allfiring.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Amanda the adventurer, Webport",
+      "altNames": [
+        "Amanda the adventurer"
+      ],
+      "url": "/games/amanda-the-adventurer/index.html",
+      "thumbnail": "/png/games/aman.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Amaze",
+      "url": "/games/amaze/index.html",
+      "thumbnail": "/png/games/amaze.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "American Fugitive",
+      "url": "/cloud/jy0012",
+      "thumbnail": "png/games/americanfugitive.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Among us",
+      "url": "/games/sussy/index.html",
+      "thumbnail": "/png/games/among.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Angry Birds",
+      "url": "/gamefile/Angrybirds.html",
+      "thumbnail": "/png/games/angry.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Angry Birds 2",
+      "url": "/games/angrybirds2/index.html",
+      "thumbnail": "/png/games/ab2.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Angry Birds Epic, Webport",
+      "url": "/games/Epic/index.html",
+      "thumbnail": "/png/games/epic.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Angry Birds Online",
+      "url": "/gamefile/angrybirdsonline.html",
+      "thumbnail": "/png/games/angrybirdsonline.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Aniimo",
+      "url": "https://web.cloudmoonapp.com/game/com.x.aniimos/",
+      "thumbnail": "/png/games/aniimo.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Animal Crossing Population: Growing!, Webport",
+      "url": "/games/slider/index.html",
+      "thumbnail": "/png/games/acpg.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Animal Crossing Wild World",
+      "url": "/gamefile/acww.html",
+      "thumbnail": "/png/games/acww.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Antonblast",
+      "url": "/games/antonblast/runner.html",
+      "thumbnail": "/png/games/anton.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Antonblast 64, Webport",
+      "url": "/games/antonblast64/index.html",
+      "thumbnail": "/png/games/an64.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Apes Vs Helium, Webport",
+      "altNames": [
+        "Apes Vs Helium"
+      ],
+      "url": "/games/AVHPort/index.html",
+      "thumbnail": "/png/games/avh.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Apotheon, Webport",
+      "altNames": [
+        "Apotheon"
+      ],
+      "url": "/games/Apotheon/index.html",
+      "thumbnail": "/png/games/apotheon.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Arena Breakout: Realistic FPS",
+      "url": "https://web.cloudmoonapp.com/game/com.proximabeta.mf.uamo/",
+      "thumbnail": "/png/games/arenabreakoutrealisticfps.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Arknights",
+      "url": "https://web.cloudmoonapp.com/game/com.YoStarEN.Arknights/",
+      "thumbnail": "/png/games/arknights.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Arknights: Endfield",
+      "url": "https://web.cloudmoonapp.com/game/com.gryphline.endfield.gp/",
+      "thumbnail": "/png/games/arknightsendfield.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "ARK: Survival Ascended",
+      "url": "/cloud/kp0015",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20250401/20250401153731926.png",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "ARK: Survival Evolved",
+      "url": "/cloud/dg0109",
+      "thumbnail": "png/games/arkse.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Arma 3",
+      "url": "/cloud/dg0054",
+      "thumbnail": "png/games/arma3.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Arthur's Nightmare, Webport",
+      "altNames": [
+        "Arthur's Nightmare"
+      ],
+      "url": "/gamefile/arthur.html",
+      "thumbnail": "/png/games/arthursnight.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "A Small World Cup",
+      "url": "/gamefile/aswc.html",
+      "thumbnail": "png/games/worldcup.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Asphalt Legends - Racing Game",
+      "url": "https://web.cloudmoonapp.com/game/com.gameloft.android.ANMP.GloftA9HM/",
+      "thumbnail": "/png/games/asphaltlegendsracinggame.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Assassin's Creed: Black Flag",
+      "url": "/cloud/dg0064",
+      "thumbnail": "png/games/assassinscreedblackflag.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Assassin's Creed: Brotherhood",
+      "url": "/cloud/dg0062",
+      "thumbnail": "png/games/asscb.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Assassin’s Creed: Odyssey",
+      "url": "/cloud/jy0046",
+      "thumbnail": "png/games/assco.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Assassin’s Creed Odyssey: The Fate of Atlantis",
+      "url": "/cloud/jy0238",
+      "thumbnail": "png/games/assassinscreedodysseythefateof.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Assassin's Creed: Revelations ",
+      "url": "/cloud/dg0063",
+      "thumbnail": "png/games/asscr.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Assassin's Creed: Syndicate",
+      "url": "/cloud/dg0065",
+      "thumbnail": "png/games/asscs.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Attack On Titan2",
+      "url": "/cloud/jy0208",
+      "thumbnail": "png/games/attackontitan2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "A Way Out",
+      "url": "/cloud/dg0021",
+      "thumbnail": "png/games/awayout.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Azur Lane",
+      "url": "https://web.cloudmoonapp.com/game/com.YoStarEN.AzurLane/",
+      "thumbnail": "/png/games/azurlane.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "-b",
+      "url": "/games/minusbog/index.html",
+      "thumbnail": "/png/games/qq.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Bad Icecream 1",
+      "url": "/gamefile/badice1.html",
+      "thumbnail": "/png/games/badice1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bad Icecream 2",
+      "url": "/gamefile/badice2.html",
+      "thumbnail": "/png/games/badice2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bad Icecream 3",
+      "url": "/gamefile/badice3.html",
+      "thumbnail": "/png/games/badice3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bad Parenting, Webport",
+      "altNames": [
+        "Bad Parenting"
+      ],
+      "url": "/games/bad/index.html",
+      "thumbnail": "png/games/bad.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Bad Piggies",
+      "url": "/gamefile/piggies.html",
+      "thumbnail": "/png/games/badp.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bad time Simulator",
+      "url": "/games/bts/index.html",
+      "thumbnail": "/png/games/badt.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Balatro Modded, Webport",
+      "altNames": [
+        "Balatro Mods"
+      ],
+      "url": "/games/balatromodded/",
+      "thumbnail": "png/games/balatromodded.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Balatro, Webport",
+      "altNames": [
+        "Balatro"
+      ],
+      "url": "/games/balatro/index.html",
+      "thumbnail": "png/games/bal.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Baldi's Basics",
+      "url": "/games/baldis-basics/index.html",
+      "thumbnail": "/png/games/baldi.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Baldi's Basics Birthday Bash, Webport",
+      "url": "/games/bday/index.html",
+      "thumbnail": "/png/games/bday.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Baldi's Basics Classic Remastered, Webport",
+      "altNames": [
+        "Baldi's Basics Classic Remastered"
+      ],
+      "url": "/games/BBCR/index.html",
+      "thumbnail": "/png/games/baldire.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Baldi's Basics Plus, Webport",
+      "altNames": [
+        "Baldi's Basics Plus"
+      ],
+      "url": "/gamefile/bbp.html",
+      "thumbnail": "/png/games/baldiplus.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Baldi's Basics Ultra Decompile",
+      "url": "/gamefile/baldidecomp.html",
+      "thumbnail": "/png/games/bbudc.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Baldi's Fun New School Plus Ultimate Edition",
+      "altNames": [
+        "Baldi's Basics Classic Remastered"
+      ],
+      "url": "/games/bfs/",
+      "thumbnail": "/png/games/bfs.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Baldurs Gate 2, Webport",
+      "altNames": [
+        "Baldurs Gate 2"
+      ],
+      "url": "/games/baldurs-gate-2/index.html",
+      "thumbnail": "/png/games/gate2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Baldur's Gate 3",
+      "url": "/cloud/kj0283",
+      "thumbnail": "png/games/bg3.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Banjo Kazooie",
+      "url": "/gamefile/banjokazooie.html",
+      "thumbnail": "/png/games/banjokazooie.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bart Bash",
+      "url": "/gamefile/bartbash.html",
+      "thumbnail": "/png/games/bartbash.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bart Blast",
+      "url": "/gamefile/bart.html",
+      "thumbnail": "/png/games/bart.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "BASEBALL 9",
+      "url": "https://web.cloudmoonapp.com/game/us.kr.baseballnine/",
+      "thumbnail": "/png/games/baseball9.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Baseball Bros",
+      "url": "/games/baseballbros/index.html",
+      "thumbnail": "png/games/basebros.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Basketball stars",
+      "url": "/games/basketballstars/index.html",
+      "thumbnail": "/png/games/basketstars.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Basket Bros",
+      "url": "/gamefile/basket.html",
+      "thumbnail": "/png/games/basketbro.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Basket Random",
+      "url": "/games/basket-random/index.html",
+      "thumbnail": "png/games/basket.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Batman™: Arkham Knight",
+      "url": "/cloud/jy0272",
+      "thumbnail": "png/games/batmanarkhamknight.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Batman™: Arkham Origins",
+      "url": "/cloud/jy0273",
+      "thumbnail": "png/games/batmanarkhamorigins.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Battlefield 6",
+      "url": "/cloud/bs0093",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260731/20260731161441839.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Beatblock, Webport",
+      "url": "/games/beatblock/index.html",
+      "thumbnail": "png/games/beatblock.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bee Movie Game",
+      "url": "/games/beemovie/index.html",
+      "thumbnail": "png/games/bee.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bendy And The Ink Machine, Webport",
+      "altNames": [
+        "Bendy And The Ink Machine"
+      ],
+      "url": "/games/bendy/index.html",
+      "thumbnail": "png/games/bendy.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bergentruck, Webport",
+      "altNames": [
+        "Bergentruck"
+      ],
+      "url": "/games/bergentruck/index.html",
+      "thumbnail": "/png/games/ber.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bfdia 5b",
+      "url": "/games/bfdia 5b/index.html",
+      "thumbnail": "/png/games/bfdia5b.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Big Tower Tiny Square",
+      "url": "/games/btts/index.html",
+      "thumbnail": "png/games/btt.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Biped 2",
+      "url": "/cloud/bs0072",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260821/20260821162354428.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Bitlife",
+      "url": "/games/bitlife/index.html",
+      "thumbnail": "png/games/bit.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Black Desert Mobile",
+      "url": "https://web.cloudmoonapp.com/game/com.pearlabyss.blackdesertm.gl/",
+      "thumbnail": "/png/games/blackdesertmobile.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Black Hole Fishing",
+      "url": "/games/bhf/single.html",
+      "thumbnail": "/png/games/bhf.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Black Jack",
+      "url": "/gamefile/BlackJack.html",
+      "thumbnail": "/png/games/blackjack.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Black Myth: Wukong",
+      "url": "/cloud/bs0096",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260724/20260724162056936.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "BLEACH: Soul Resonance",
+      "url": "https://web.cloudmoonapp.com/game/com.bladetw.bd/",
+      "thumbnail": "/png/games/bleachsoulresonance.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Block Blast",
+      "url": "/games/block-blast/index.html",
+      "thumbnail": "png/games/unnamed.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Blockman Go",
+      "url": "https://web.cloudmoonapp.com/game/com.sandboxol.blockymods/",
+      "thumbnail": "/png/games/blockmango.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Bloodmoney, Webport",
+      "altNames": [
+        "Bloodmoney"
+      ],
+      "url": "/games/bloodmoney/index.html",
+      "thumbnail": "/png/games/blood.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bloodstained: Ritual of the Night",
+      "url": "/cloud/jy0080",
+      "thumbnail": "png/games/bloodstainedritualofthenight.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Blood Strike x Attack on Titan",
+      "url": "https://web.cloudmoonapp.com/game/com.netease.newspike/",
+      "thumbnail": "/png/games/bloodstrikexattackontitan.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Bloons TD5",
+      "url": "/games/btd5/index.html",
+      "thumbnail": "/png/games/blo5.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bloons TD6",
+      "url": "/games/btd6/index.html",
+      "thumbnail": "/png/games/blo6.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bloons TD Battles 2",
+      "url": "https://nowgg.fun/apps/ninja-kiwi/1403/bloons-td-battles-2.html",
+      "thumbnail": "png/games/bloonstdb2.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Bloon TD1",
+      "url": "/games/bloonstd/index.html",
+      "thumbnail": "png/games/bloons.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bloon TD2",
+      "url": "/games/bloonstd2/index.html",
+      "thumbnail": "/png/games/blo2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bloon TD3",
+      "url": "/games/btd3/index.html",
+      "thumbnail": "/png/games/blo3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bloon TD4",
+      "url": "/gamefile/bloonstd4.html",
+      "thumbnail": "/png/games/btd4.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bloxors",
+      "url": "/games/bloxors/index.html",
+      "thumbnail": "/png/games/bloxorz.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Blue Prince",
+      "url": "/cloud/bs0021",
+      "thumbnail": "png/games/blueprince.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Bombmerman",
+      "url": "/gamefile/bomberman.html",
+      "thumbnail": "png/games/bomberman.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bombmerman 2",
+      "url": "/gamefile/bomberman2.html",
+      "thumbnail": "png/games/bomberman2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bonk.io",
+      "url": "https://bonk.io/",
+      "thumbnail": "png/games/bonkio.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Boomerang Fu",
+      "url": "/cloud/jy0244",
+      "thumbnail": "png/games/boomerangfu.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Boxing Random",
+      "url": "/gamefile/boxing.html",
+      "thumbnail": "png/games/boxing.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Brawl Stars",
+      "url": "https://web.cloudmoonapp.com/game/com.supercell.brawlstars/",
+      "thumbnail": "/png/games/brawlstars2.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Brotato Paws And Claws, Webport",
+      "altNames": [
+        "Brotato"
+      ],
+      "url": "/games/brotato2/index.html",
+      "thumbnail": "png/games/paws.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Buckshot Roulette, Webport",
+      "altNames": [
+        "Buckshot Roulette"
+      ],
+      "url": "/games/buckshot/index.html",
+      "thumbnail": "png/games/buck.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Builder Simulator",
+      "url": "/cloud/kj0135",
+      "thumbnail": "png/games/buildersimulator.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Burkina Faso: Radical Insurgency",
+      "url": "/cloud/bs0063",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260710/20260710154415676.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Burrito Bison",
+      "url": "/games/burrito/index.html",
+      "thumbnail": "png/games/burrito.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Burrito Bison Revenge",
+      "url": "/gamefile/bbe.html",
+      "thumbnail": "png/games/bbe.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Call of Duty 4 Modern Warfare",
+      "url": "/games/cod4mw/index.html",
+      "thumbnail": "png/games/cod4mw.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Call of Duty Mobile",
+      "url": "https://nowgg.fun/apps/a/10008/b.html",
+      "thumbnail": "png/games/codmobile.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Call of Duty: WWII",
+      "url": "/cloud/jy0361",
+      "thumbnail": "png/games/codwwii.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Candy Crush Saga",
+      "url": "https://web.cloudmoonapp.com/game/com.king.candycrushsaga/",
+      "thumbnail": "/png/games/candycrushsaga.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "CAPTAIN TSUBASA: ACE",
+      "url": "https://web.cloudmoonapp.com/game/com.dgames.g65002005.google/",
+      "thumbnail": "/png/games/captaintsubasaace.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Capuchin, Webport",
+      "url": "/games/CapuchinBog/index.html",
+      "thumbnail": "/png/games/capuchin.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Car Parking Multiplayer",
+      "url": "https://web.cloudmoonapp.com/game/com.olzhas.carparking.multyplayer/",
+      "thumbnail": "/png/games/carparkingmultiplayer.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "CarX Drift Racing 2",
+      "url": "https://web.cloudmoonapp.com/game/com.carxtech.carxdr2/",
+      "thumbnail": "/png/games/carxdriftracing2.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "CaseOhs Basics in Eating and Fast Food, Webport",
+      "url": "/gamefile/caseoh.html",
+      "thumbnail": "/png/games/caseoh.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Cat Goes Fishing",
+      "url": "/games/catfish/index.html",
+      "thumbnail": "png/games/catgoesfishing.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Cavalry Girls",
+      "url": "/cloud/bs0058",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260626/20260626144006357.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Celeste 3D, Webport",
+      "url": "/games/celeste3d/index.html",
+      "thumbnail": "/png/games/celeste3d.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Celeste 64, Webport",
+      "url": "/games/celeste64/index.html",
+      "thumbnail": "/png/games/celeste64.webp",
+      "frameType": "iframe",
+      "mobileWrapper": false
+    },
+    {
+      "name": "Celeste, Webport",
+      "url": "/games/celeste/index.html",
+      "thumbnail": "/png/games/celeste.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Chaos Zero Nightmare",
+      "url": "https://web.cloudmoonapp.com/game/com.smilegate.chaoszero.stove.google/",
+      "thumbnail": "/png/games/chaoszeronightmare.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Cheese Rolling, Webport",
+      "url": "/gamefile/cheese.html",
+      "thumbnail": "/png/games/cheeser.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Chess.com",
+      "url": "https://chess.com",
+      "thumbnail": "/png/games/chess.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Chess - Play and Learn Online",
+      "url": "https://web.cloudmoonapp.com/game/com.chess/",
+      "thumbnail": "/png/games/chessplayandlearnonline.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Choo-Choo Charles",
+      "url": "/cloud/dg0278",
+      "thumbnail": "png/games/choochoo.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Christmas Massacre, Webport",
+      "url": "/gamefile/christmas.html",
+      "thumbnail": "/png/games/christmas.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Cities: Skylines",
+      "url": "/cloud/kj0185",
+      "thumbnail": "png/games/csi.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Cities: Skylines 2",
+      "url": "/cloud/dg0364",
+      "thumbnail": "png/games/csii.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Clair Obscur: Expedition 33",
+      "url": "/cloud/bs0034",
+      "thumbnail": "png/games/clairobscurexpedition33.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Clash of Clans",
+      "url": "https://web.cloudmoonapp.com/game/com.supercell.clashofclans/",
+      "thumbnail": "/png/games/clashofclans.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Clash Royale",
+      "url": "https://web.cloudmoonapp.com/game/com.supercell.clashroyale/",
+      "thumbnail": "/png/games/clashroyale2.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Class Of 09 Flipside, Webport",
+      "altNames": [
+        "Class Of 09 Flipside"
+      ],
+      "url": "/games/C09FS/index.html",
+      "thumbnail": "png/games/flip.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Class Of 09 Re-Up, Webport",
+      "altNames": [
+        "Class Of 09 Re-Up"
+      ],
+      "url": "/games/C09RU/index.html",
+      "thumbnail": "png/games/reup.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Class Of 09, Webport",
+      "altNames": [
+        "Class Of 09"
+      ],
+      "url": "/games/C09/index.html",
+      "thumbnail": "png/games/class.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Clover Pit",
+      "url": "/gamefile/cloverpit.html",
+      "thumbnail": "/png/games/clover.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Cluster Truck, Webport",
+      "url": "/games/clustertruck/index.html",
+      "thumbnail": "/png/games/cluster.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Coastal Kitchen Simulator",
+      "url": "/cloud/bs0065",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260821/20260821150436580.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "COD6 Modern Warfare",
+      "url": "/cloud/md0176",
+      "thumbnail": "png/games/callofdutymodernwarfare2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Coffee Talk",
+      "url": "/games/coffee/index.html",
+      "thumbnail": "png/games/coffee.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Commandos: Origins",
+      "url": "/cloud/bs0074",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260807/20260807170417761.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Control",
+      "url": "/cloud/jy0417",
+      "thumbnail": "png/games/control.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Cookie Clicker",
+      "url": "/games/cookie-clicker/index.html",
+      "thumbnail": "png/games/cookie.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "CookieRun: Crumble - Idle RPG",
+      "url": "https://web.cloudmoonapp.com/game/com.devsisters.cc/",
+      "thumbnail": "/png/games/cookieruncrumbleidlerpg.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Cookie Run Kingdom",
+      "url": "https://nowgg.fun/apps/a/10019/b.html",
+      "thumbnail": "png/games/crk.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "CookieRun: OvenSmash",
+      "url": "https://web.cloudmoonapp.com/game/com.devsisters.cos/",
+      "thumbnail": "/png/games/cookierunovensmash.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "CookieRun: Tower of Adventures",
+      "url": "https://web.cloudmoonapp.com/game/com.devsisters.cba/",
+      "thumbnail": "/png/games/cookieruntowerofadventures.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Cooking Mama",
+      "url": "/gamefile/cookingmama.html",
+      "thumbnail": "png/games/cookingmama.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Cooking Mama 2",
+      "url": "/gamefile/cookingmama2.html",
+      "thumbnail": "png/games/cookingmama2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Cooking Mama 3",
+      "url": "/gamefile/cookingmama3.html",
+      "thumbnail": "png/games/cookingmama3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Cooking Simulator",
+      "url": "/cloud/dg0145",
+      "thumbnail": "png/games/cookingsimulator.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Copa City",
+      "url": "/cloud/bs0101",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260918/20260918164930709.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Counter Stike 0.8",
+      "url": "/games/psp/cs/index.html",
+      "thumbnail": "/png/games/cs08.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Crash Bandicoot 1",
+      "url": "/gamefile/crash1.html",
+      "thumbnail": "/png/games/crash1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Crash Bandicoot 2",
+      "url": "/gamefile/crash2.html",
+      "thumbnail": "/png/games/crash2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Crash Bandicoot 3",
+      "url": "/gamefile/crash3.html",
+      "thumbnail": "/png/games/crash3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Crashlands 2",
+      "url": "/cloud/bs0020",
+      "thumbnail": "png/games/crashlands2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Crashout Crew, Webport",
+      "url": "/games/crashout/index.html",
+      "thumbnail": "/png/games/crash.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Crazy Balls",
+      "url": "/gamefile/balls.html",
+      "thumbnail": "/png/games/balls.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "CrazyCattle3D, Webport",
+      "altNames": [
+        "CrazyCattle3D"
+      ],
+      "url": "/games/cattle3d/index.html",
+      "thumbnail": "/png/games/crazyca.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Cricket 26",
+      "url": "/cloud/bs0047",
+      "thumbnail": "png/games/cricket26.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Crossy Roads",
+      "url": "/gamefile/crossy.html",
+      "thumbnail": "/png/games/crossy.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Cruelty Squad, Webport",
+      "url": "/games/cruelty/index.html",
+      "thumbnail": "/png/games/cruelty.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Csgo Clicker",
+      "url": "/games/csgo-clicker/index.html",
+      "thumbnail": "png/games/csbox.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Cuphead, Webport",
+      "altNames": [
+        "Cuphead"
+      ],
+      "url": "/games/Cuphead/index.html",
+      "thumbnail": "/png/games/cup.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Curse of the Dead Gods",
+      "url": "/cloud/jy0219",
+      "thumbnail": "png/games/curseofthedeadgods.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Customer Support, Webport",
+      "altNames": [
+        "Customer Support"
+      ],
+      "url": "/games/CustomerSupport/index.html",
+      "thumbnail": "/png/games/cus.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Cut The Rope",
+      "url": "/gamefile/cut.html",
+      "thumbnail": "png/games/cut1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Cut The Rope Holiday",
+      "url": "/gamefile/hol.html",
+      "thumbnail": "/png/games/cut2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Cut The Rope : Time Travel",
+      "url": "/gamefile/time.html",
+      "thumbnail": "png/games/time.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "url": "/cloud/jy0354",
+      "thumbnail": "png/games/cyberpunk2077.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Dadish",
+      "url": "/gamefile/dadish.html",
+      "thumbnail": "/png/games/dadish.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Dadish 2",
+      "url": "/gamefile/dadish2.html",
+      "thumbnail": "/png/games/dadish2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Dadish 3",
+      "url": "/gamefile/dadish3.html",
+      "thumbnail": "/png/games/dadish3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Dadish 3d",
+      "url": "/gamefile/dadish3d.html",
+      "thumbnail": "/png/games/dadish3d.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Dadish Daily",
+      "url": "/gamefile/daily.html",
+      "thumbnail": "/png/games/daily.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Danganronpa",
+      "url": "/games/danganronpa/index.html",
+      "thumbnail": "/png/games/dan.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Dark Pals: The 1st Floor",
+      "url": "/cloud/bs0102",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260911/20260911145708294.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Dark Souls III",
+      "url": "/cloud/bs0081",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260904/20260904145122495.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Days Gone",
+      "url": "/cloud/jy0487",
+      "thumbnail": "png/games/daysgone.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Dead Cells",
+      "url": "/cloud/jy0013",
+      "thumbnail": "png/games/deadcells.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "DEAD PLATE, Webport",
+      "altNames": [
+        "DEAD PLATE"
+      ],
+      "url": "/gamefile/dead.html",
+      "thumbnail": "/png/games/deadp.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Deadseat, Webport",
+      "altNames": [
+        "Deadseat"
+      ],
+      "url": "/games/deadseat/index.html",
+      "thumbnail": "/png/games/deadseat.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Dead Space 2",
+      "url": "/cloud/kj0614",
+      "thumbnail": "png/games/deadspace2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Dead Space™ 3",
+      "url": "/cloud/kj0615",
+      "thumbnail": "png/games/deadspace3.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Dead Tapes",
+      "url": "/games/deadtapesfinal/index.html",
+      "thumbnail": "/png/games/deadta.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Deathloop",
+      "url": "/cloud/kj0035",
+      "thumbnail": "png/games/deathloop.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Death Run 3D",
+      "url": "/games/death-run-3d/index.html",
+      "thumbnail": "png/games/death.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Death Stranding 2: On the Beach",
+      "url": "/cloud/bs0103",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260904/20260904154148586.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Delta Force",
+      "url": "https://web.cloudmoonapp.com/game/com.proxima.dfm/",
+      "thumbnail": "/png/games/deltaforce.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Deltarune, Webport",
+      "altNames": [
+        "Deltarune"
+      ],
+      "url": "/games/deltarune/index.html",
+      "thumbnail": "/png/games/deltarune.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Deltatraveler, Webport",
+      "altNames": [
+        "Deltatraveler"
+      ],
+      "url": "/gamefile/deltatr.html",
+      "thumbnail": "/png/games/deltatr.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Detroit: Become Human",
+      "url": "/cloud/bs0087",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260724/20260724172914224.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Devil May Cry 4",
+      "url": "/cloud/jy0008",
+      "thumbnail": "png/games/devilmaycry4.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Devil May Cry 5",
+      "url": "/cloud/jy0039",
+      "thumbnail": "png/games/devilmaycry5.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Dewdrop Dynasty, Webport",
+      "url": "/games/dewdrop/index.html",
+      "thumbnail": "/png/games/dewrop.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Diablo",
+      "url": "/games/diablo/index.html",
+      "thumbnail": "/png/games/diablo.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Diablo II - Resurrected",
+      "url": "/cloud/bs0056",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260618/2026061814460915.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Dice A Million, Webport",
+      "url": "/gamefile/diceamillion.html",
+      "thumbnail": "/png/games/diceamillion.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Dinosaur",
+      "url": "/games/dinosaur/index.html",
+      "thumbnail": "/png/games/dino.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Disney Twisted-Wonderland",
+      "url": "https://web.cloudmoonapp.com/game/com.aniplex.twst.en/",
+      "thumbnail": "/png/games/disneytwistedwonderland.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Doge Miner",
+      "url": "/gamefile/Doge Miner.html",
+      "thumbnail": "/png/games/doge.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Doge Miner 2",
+      "url": "/gamefile/dm2.html",
+      "thumbnail": "/png/games/dogeminer2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Dome Keeper, Webport",
+      "url": "/games/domekeeper/index.html",
+      "thumbnail": "/png/games/domekeeper.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Do Not Take This Cat Home, Webport",
+      "altNames": [
+        "Do Not Take This Cat Home"
+      ],
+      "url": "/games/donottakethiscathome/index.html",
+      "thumbnail": "png/games/dont.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Dont Bite Me Bro!, Webport",
+      "altNames": [
+        "Dont Bite Me Bro!"
+      ],
+      "url": "/games/dbmb/index.html",
+      "thumbnail": "png/games/dbmb.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Doodle Jump",
+      "url": "/gamefile/Doodle Jump.html",
+      "thumbnail": "png/games/doodle.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Doom",
+      "url": "/games/doom/index.html",
+      "thumbnail": "/png/games/doom.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Doom 2",
+      "url": "/gamefile/doom2.html",
+      "thumbnail": "/png/games/doom2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Doom 3",
+      "url": "/games/doom3/index.html",
+      "thumbnail": "/png/games/doom3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Doom 64",
+      "url": "/gamefile/doom64.html",
+      "thumbnail": "/png/games/doom64.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Doom Eternal",
+      "url": "/cloud/jy0488",
+      "thumbnail": "png/games/doometernal.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Doraemon: Story of Seasons",
+      "url": "/cloud/jy0118",
+      "thumbnail": "png/games/doraemonstoryofseasons.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "DRAGON BALL LEGENDS",
+      "url": "https://web.cloudmoonapp.com/game/com.bandainamcoent.dblegends_ww/",
+      "thumbnail": "/png/games/dragonballlegends.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "DRAGON BALL: Sparking! ZERO",
+      "url": "/cloud/bs0078",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260729/20260729175805537.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Dragon Ball Z: Kakarot",
+      "url": "/cloud/jy0084",
+      "thumbnail": "png/games/dragonballzkakarot.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Dreadhead Parkour",
+      "url": "/gamefile/dread.html",
+      "thumbnail": "png/games/dread.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Drift Boss",
+      "url": "/games/drift-boss/index.html",
+      "thumbnail": "png/games/driftboss.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Drift Hunter",
+      "url": "/gamefile/drift.html",
+      "thumbnail": "png/games/hunt.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Drift Racing Online",
+      "url": "/cloud/kj0141",
+      "thumbnail": "png/games/driftracingonline.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Drive Mad",
+      "url": "/games/drive-mad/index.html",
+      "thumbnail": "png/games/drive.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Dr. Mario",
+      "url": "/gamefile/drmario.html",
+      "thumbnail": "png/games/drmario.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Duck Life 1",
+      "url": "/games/ducklife1/index.html",
+      "thumbnail": "png/games/duck1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Duck Life 2",
+      "url": "/games/ducklife2/index.html",
+      "thumbnail": "/png/games/duck2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Duck Life 3",
+      "url": "/games/ducklife3/index.html",
+      "thumbnail": "/png/games/duck3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Duck Life 4",
+      "url": "/games/ducklife4/index.html",
+      "thumbnail": "/png/games/duck4.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Duck Life 5",
+      "url": "/games/ducklife5/index.html",
+      "thumbnail": "/png/games/duck5.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Duck Life 6",
+      "url": "/games/ducklife6/index.html",
+      "thumbnail": "/png/games/ducklife6.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Duck Life 7",
+      "url": "/games/ducklife7/index.html",
+      "thumbnail": "/png/games/ducklife7.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Duck Life 8, Webport",
+      "url": "/games/ducklifeadv/",
+      "thumbnail": "/png/games/ducklifeadc.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Duet Night Abyss",
+      "url": "https://web.cloudmoonapp.com/game/com.panstudio.gplay.duetnightabyss.arpg.global/",
+      "thumbnail": "/png/games/duetnightabyss.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Dumb Ways To Die",
+      "url": "/games/dumb/index.html",
+      "thumbnail": "/png/games/dumb.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Dune",
+      "url": "/games/dune/index.html",
+      "thumbnail": "png/games/dune.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "EA SPORTS FC MOBILE 24 SOCCER",
+      "url": "https://nowgg.fun/apps/electronic-arts/1353/ea-sports-fc-mobile-24-soccer.html",
+      "thumbnail": "png/games/easportsmobile.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "EA SPORTS FC Soccer Mobile 26",
+      "url": "https://web.cloudmoonapp.com/game/com.ea.gp.fifamobile/",
+      "thumbnail": "/png/games/easportsfcsoccermobile26.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "EA SPORTS™ NBA LIVE Mobile",
+      "url": "https://web.cloudmoonapp.com/game/com.ea.gp.nbamobile/",
+      "thumbnail": "/png/games/easportstmnbalivemobile.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Easy Red 2",
+      "url": "/cloud/bs0035",
+      "thumbnail": "png/games/easyred2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "eFootball™",
+      "url": "https://web.cloudmoonapp.com/game/jp.konami.pesam/",
+      "thumbnail": "/png/games/efootballtm.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Eggy Car",
+      "url": "/gamefile/eggycar.html",
+      "thumbnail": "/png/games/eggycar.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Eggy Party: Spooky",
+      "url": "https://web.cloudmoonapp.com/game/com.netease.partyglobal/",
+      "thumbnail": "/png/games/eggypartyspooky.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Elden Ring",
+      "url": "/cloud/dg0170",
+      "thumbnail": "png/games/eldenring.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Electronic Market Simulator",
+      "url": "/cloud/bs0071",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260828/20260828143013749.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Elemental: Reforged",
+      "url": "/cloud/bs0107",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260918/20260918152330783.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Emily Is Away",
+      "url": "/games/emily/index.html",
+      "thumbnail": "/png/games/emily.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Endacopia, Webport",
+      "url": "/games/endacopia/index.html",
+      "thumbnail": "/png/games/endacopia.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Endoparasitic",
+      "url": "/games/endoparasitic/index.html",
+      "thumbnail": "/png/games/endo1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Endoparasitic 2",
+      "url": "/games/endoparasitic2/index.html",
+      "thumbnail": "/png/games/endo2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Escape Road",
+      "url": "/gamefile/escape.html",
+      "thumbnail": "/png/games/road.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Escape Road 2",
+      "url": "/gamefile/road2.html",
+      "thumbnail": "/png/games/escape2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Escape Road 3",
+      "url": "/gamefile/escape3.html",
+      "thumbnail": "/png/games/escape3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Escape Road City 2",
+      "url": "/gamefile/roadcity2.html",
+      "thumbnail": "/png/games/roadcity.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Etheria: Restart",
+      "url": "https://web.cloudmoonapp.com/game/com.xd.etheria.gp.glb/",
+      "thumbnail": "/png/games/etheriarestart.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Euro Truck Simulator 2",
+      "url": "/cloud/dg0020",
+      "thumbnail": "png/games/eurotrucksimulator2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Fall Guys",
+      "url": "https://web.cloudmoonapp.com/game/com.Mediatonic.FallGuys_client/",
+      "thumbnail": "/png/games/fallguys.jpg",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Falling Fred",
+      "url": "/games/falling/index.html",
+      "thumbnail": "/png/games/super-falling-fred.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Fallout",
+      "url": "/gamefile/falloutt.html",
+      "thumbnail": "/png/games/fallout.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Fallout 2, Webport",
+      "url": "/games/fo2/index.html",
+      "thumbnail": "/png/games/fallout2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Fallout 4",
+      "url": "/cloud/jy0310",
+      "thumbnail": "png/games/fallout4.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Fancy Pants Adventures",
+      "url": "/games/fancypantsadventures/index.html",
+      "thumbnail": "/png/games/fpa1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Fancy Pants Adventures 2",
+      "url": "/games/fancypantsadventures2/index.html",
+      "thumbnail": "/png/games/fancy2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Fancy Pants Adventures 3",
+      "url": "/gamefile/fpa3.html",
+      "thumbnail": "/png/games/fpa3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Far Cry 3",
+      "url": "/cloud/md0483",
+      "thumbnail": "png/games/fc3.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Far Cry 5",
+      "url": "/cloud/bs0082",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260731/20260731161251783.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Far Cry New Dawn",
+      "url": "/cloud/jy0252",
+      "thumbnail": "png/games/fcndawn.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Far Cry Primal",
+      "url": "/cloud/jy0154",
+      "thumbnail": "png/games/fcpri.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Farlight 84",
+      "url": "https://web.cloudmoonapp.com/game/com.miraclegames.farlight84/",
+      "thumbnail": "/png/games/farlight84.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Fate/Grand Order (English)",
+      "url": "https://web.cloudmoonapp.com/game/com.aniplex.fategrandorder.en/",
+      "thumbnail": "/png/games/fategrandorderenglish.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Fears To Fathom: Home Alone, Webport",
+      "url": "/games/ftf/index.html",
+      "thumbnail": "/png/games/fear.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FEROCIOUS",
+      "url": "/cloud/bs0059",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260626/20260626151723124.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "FEZ, Webport",
+      "url": "/games/FEZ/index.html",
+      "thumbnail": "/png/games/fez.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FIFA19",
+      "url": "/cloud/dg0139",
+      "thumbnail": "png/games/fifa19.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "FIFA23",
+      "url": "/cloud/kj0328",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20240527/20240527172935321.png",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Final Fantasy VII",
+      "url": "/gamefile/ffvii.html",
+      "thumbnail": "/png/games/ffvii.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "url": "/cloud/dg0158",
+      "thumbnail": "png/games/finalfantasyviiremakeintergrad.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Final Fantasy XIII",
+      "url": "/cloud/jy0005",
+      "thumbnail": "png/games/ffxiii.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Fireboy and Watergirl",
+      "url": "/games/watergirl-1/index.html",
+      "thumbnail": "/png/games/fire1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Fireboy and Watergirl 2",
+      "url": "/games/watergirl-2/index.html",
+      "thumbnail": "/png/games/fire2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Fireboy and Watergirl 3",
+      "url": "/games/watergirl-3/index.html",
+      "thumbnail": "/png/games/fire3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Fireboy and Watergirl 4",
+      "url": "/games/watergirl-4/index.html",
+      "thumbnail": "/png/games/fire4.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Fishing Planet",
+      "url": "https://web.cloudmoonapp.com/game/com.FishingPlanetLLC.FishingPlanet/",
+      "thumbnail": "/png/games/fishingplanet.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "FISH, Webport",
+      "url": "/gamefile/fish.html",
+      "thumbnail": "/png/games/fish.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Fister",
+      "url": "https://fister.fun",
+      "thumbnail": "/png/games/fister.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Five Hearts Under One Roof",
+      "url": "/cloud/dg0589",
+      "thumbnail": "png/games/fiveheartsunderoneroof.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Five Nights At Candys",
+      "url": "/gamefile/fnac.html",
+      "thumbnail": "/png/games/fnac.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Five Nights At Candys 2",
+      "url": "/gamefile/fnac2.html",
+      "thumbnail": "/png/games/fnac2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Five Nights At Epsteins, Webport",
+      "altNames": [
+        "Five Nights At Epsteins"
+      ],
+      "url": "/gamefile/fnae.html",
+      "thumbnail": "/png/games/fnae.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Five Nights At Frickbears 3, Webport",
+      "altNames": [
+        "Five Nights At Frickbears 3"
+      ],
+      "url": "/games/fb3/index.html",
+      "thumbnail": "/png/games/fnafb3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Five Nights At Last Breath, Webport",
+      "url": "/gamefile/breath.html",
+      "thumbnail": "/png/games/breath.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Flappy bird",
+      "url": "/games/flappybird/index.html",
+      "thumbnail": "/png/games/flapp.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Fling to Finish",
+      "url": "/cloud/dg0022",
+      "thumbnail": "png/games/flingtofinish.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Flying Gorilla, Webport",
+      "url": "/gamefile/gorilla.html",
+      "thumbnail": "/png/games/flying.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FNAF",
+      "url": "/games/fnaf/index.html",
+      "thumbnail": "png/games/splash.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FNAF2",
+      "url": "/games/2/index.html",
+      "thumbnail": "/png/games/fnaf2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FNAF3",
+      "url": "/games/3/index.html",
+      "thumbnail": "/png/games/3f.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FNAF4",
+      "url": "/games/fnaf4/index.html",
+      "thumbnail": "/png/games/fnaf4.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FNAF4 Halloween",
+      "url": "/gamefile/ween.html",
+      "thumbnail": "/png/games/hollowween.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FNAF Sisters Location",
+      "url": "/gamefile/fnafs.html",
+      "thumbnail": "/png/games/sister.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FNAF Ultimate Custom Night",
+      "url": "/gamefile/fnafu.html",
+      "thumbnail": "/png/games/custom.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FNAF World",
+      "url": "/gamefile/fnafw.html",
+      "thumbnail": "/png/games/fnafworld.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FNAF World Refreshed",
+      "url": "/games/fnw/index.html",
+      "thumbnail": "/png/games/fne.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FNAW",
+      "url": "/gamefile/fnaw.html",
+      "thumbnail": "/png/games/fnaw.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FNF, Friday Night Funkin",
+      "altNames": [
+        "Friday Night Funkin"
+      ],
+      "url": "/games/fnf/fnfog.html",
+      "thumbnail": "png/games/fnf.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Football Bros",
+      "url": "/games/footballbros/index.html",
+      "thumbnail": "png/games/footbros.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Football Manager 2023",
+      "url": "/cloud/kj0461",
+      "thumbnail": "png/games/footballmanager2023.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Football：PES 2021",
+      "url": "/cloud/dg0024",
+      "thumbnail": "png/games/efootballpes2021.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Forager",
+      "url": "/cloud/jy0196",
+      "thumbnail": "png/games/forager.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "For The King",
+      "url": "/cloud/jy0075",
+      "thumbnail": "png/games/fortheking.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Fortnite",
+      "url": "https://nowgg.fun/apps/aptoide/5874/aptoide.html?deep_link=aptoidesearch://com.epicgames.fortnite",
+      "thumbnail": "png/games/fortnite.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Forza Horizon 4",
+      "url": "/cloud/jy0541",
+      "thumbnail": "png/games/forzah4.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Forza Horizon 5",
+      "url": "/cloud/kj0214",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260305/20260305115627492.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Forza Horizon 6",
+      "url": "/cloud/bs0054",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260618/20260618144542619.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Free Fire: 9th Anniversary",
+      "url": "https://web.cloudmoonapp.com/game/com.dts.freefireth/",
+      "thumbnail": "/png/games/freefire9thanniversary.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Free Fire MAX",
+      "url": "https://web.cloudmoonapp.com/game/com.dts.freefiremax/",
+      "thumbnail": "/png/games/freefiremax.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Friday Night Funkin'",
+      "url": "https://web.cloudmoonapp.com/game/me.funkin.fnf/",
+      "thumbnail": "/png/games/fridaynightfunkin.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Friday Night Funkin Aethos",
+      "url": "/games/fnf/aethos.html",
+      "thumbnail": "png/games/aethos.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Atrocity",
+      "url": "/games/fnf/atrocity.html",
+      "thumbnail": "png/games/atrocity.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin BFDI 26",
+      "url": "/games/fnf/bfdi26.html",
+      "thumbnail": "png/games/bfdi26.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Bop City",
+      "url": "/games/fnf/bopcity.html",
+      "thumbnail": "png/games/bopcity.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin For A BFDI",
+      "url": "/games/fnf/ffabfdi.html",
+      "thumbnail": "png/games/ffabfdi.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Garcello",
+      "url": "/games/fnf/garcello.html",
+      "thumbnail": "png/games/garcello.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Get Digging",
+      "url": "/games/fnf/getdigging.html",
+      "thumbnail": "png/games/getdigging.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Hatsune Miku",
+      "url": "/games/fnf/miku.html",
+      "thumbnail": "png/games/miku.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Hex",
+      "url": "/games/fnf/hex.html",
+      "thumbnail": "png/games/hex.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Horkglorpgloop",
+      "url": "/games/fnf/horkglorpgloop.html",
+      "thumbnail": "png/games/infinite.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Infinite Irida",
+      "url": "/games/fnf/infiniteiridra.html",
+      "thumbnail": "png/games/hork.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Kapi",
+      "url": "/games/fnf/kapi.html",
+      "thumbnail": "png/games/kapi.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Mario Madness",
+      "url": "/games/fnf/mariomadness.html",
+      "thumbnail": "png/games/mario.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Nonsense",
+      "url": "/games/fnf/nonsense.html",
+      "thumbnail": "png/games/nonsense.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Rewrite",
+      "url": "/games/fnf/rewrite.html",
+      "thumbnail": "png/games/rewrite.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Rewrite 2",
+      "url": "/games/fnf/rewrite2.html",
+      "thumbnail": "png/games/rewrite2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Ron",
+      "url": "/games/fnf/ron.html",
+      "thumbnail": "png/games/ron.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Shaggy",
+      "url": "/games/fnf/shaggy.html",
+      "thumbnail": "png/games/shaggy.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Shaggy X Matt",
+      "url": "/games/fnf/shaggyxmatt.html",
+      "thumbnail": "png/games/sxm.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Shucks V2",
+      "url": "/games/fnf/shucksv2.html",
+      "thumbnail": "png/games/shucksv2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Tricky",
+      "url": "/games/fnf/tricky.html",
+      "thumbnail": "png/games/tricky.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin TWIDDLEFINGER",
+      "url": "/games/fnf/TWIDDLEFINGER.html",
+      "thumbnail": "png/games/twiddle.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Vs. Tord",
+      "url": "/games/fnf/tord.html",
+      "thumbnail": "png/games/tord.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Whitty",
+      "url": "/games/fnf/whitty.html",
+      "thumbnail": "png/games/whitty.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Friday Night Funkin Zardy",
+      "url": "/games/fnf/zardy.html",
+      "thumbnail": "png/games/zardy.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Frostpunk 2",
+      "url": "/cloud/dg0533",
+      "thumbnail": "png/games/frostpunk2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Fruit Ninja",
+      "url": "/games/fruitninja/index.html",
+      "thumbnail": "/png/games/ninja.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Fused240",
+      "url": "/games/fused240/index.html",
+      "thumbnail": "png/games/fused240.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Gabriel's Awesome Schoolhouse, Webport",
+      "altNames": [
+        "Gabriel's Awesome Schoolhouse"
+      ],
+      "url": "/gamefile/gash.html",
+      "thumbnail": "/png/games/gabriel.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Gacha Club",
+      "url": "https://web.cloudmoonapp.com/game/air.com.lunime.gachaclub/",
+      "thumbnail": "/png/games/gachaclub.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Gacha Life",
+      "url": "/gamefile/life.html",
+      "thumbnail": "/png/games/gachalife.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Gacha Life 2",
+      "url": "https://web.cloudmoonapp.com/game/air.com.lunime.gachalife2/",
+      "thumbnail": "/png/games/gachalife2.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Gacha Verse",
+      "url": "/gamefile/verse.html",
+      "thumbnail": "/png/games/gachaverse.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Gamble With Your Friends, Webport",
+      "url": "/games/gamble/index.html",
+      "thumbnail": "/png/games/gamble.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Gang Beasts, Webport",
+      "url": "/games/gangbeasts/index.html",
+      "thumbnail": "/png/games/gangbeats.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Garena® Delta Force",
+      "url": "https://web.cloudmoonapp.com/game/com.garena.game.df/",
+      "thumbnail": "/png/games/garenadeltaforce.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Genshin Impact",
+      "url": "https://nowgg.fun/apps/cognosphere-pte-ltd-/1773/genshin-impact.html",
+      "thumbnail": "/png/games/genshin.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Geoguessr",
+      "url": "https://www.geoguessr.com/",
+      "thumbnail": "/png/games/geoguess.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Geometry Dash Lite",
+      "url": "https://web.cloudmoonapp.com/game/com.robtopx.geometryjumplite/",
+      "thumbnail": "/png/games/geometrydashlite.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Geometry Dash, Webport",
+      "url": "/games/geo/index.html",
+      "thumbnail": "/png/games/gd.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Getaway Shootout",
+      "url": "/games/getaway-shootout/index.html",
+      "thumbnail": "/png/games/getaway.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Getting Over It, Webport",
+      "url": "/gamefile/goi.html",
+      "thumbnail": "/png/games/gettin.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Ghost of Tsushima",
+      "url": "/cloud/kj0516",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20250527/20250527115454441.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "GhostWire: Tokyo",
+      "url": "/cloud/KJ0019",
+      "thumbnail": "png/games/ghostwiretokyo.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "GigaBash",
+      "url": "/cloud/kj0237",
+      "thumbnail": "png/games/gigabash.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Girls' Frontline",
+      "url": "https://web.cloudmoonapp.com/game/com.sunborn.girlsfrontline.en/",
+      "thumbnail": "/png/games/girlsfrontline.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "GIRLS' FRONTLINE 2: EXILIUM",
+      "url": "https://web.cloudmoonapp.com/game/com.Sunborn.SnqxExilium.Glo/",
+      "thumbnail": "/png/games/girlsfrontline2exilium.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Gladihoppers",
+      "url": "/gamefile/Gladihoppers.html",
+      "thumbnail": "/png/games/glad.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "GODDESS OF VICTORY: NIKKE",
+      "url": "https://web.cloudmoonapp.com/game/com.proximabeta.nikke/",
+      "thumbnail": "/png/games/goddessofvictorynikke.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "GOD FORSAKEN",
+      "url": "/cloud/bs0061",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260703/20260703111731566.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "God of War",
+      "url": "/cloud/bs0053",
+      "thumbnail": "png/games/gow4.webp",
+      "frameType": "iframe",
+      "category": "cloud",
+      "altNames": [
+        "God of War 4"
+      ]
+    },
+    {
+      "name": "God of War: Ragnarök",
+      "url": "/cloud/bs0017",
+      "thumbnail": "png/games/gowrag.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Goober Dash",
+      "url": "https://gooberdash.winterpixel.io/",
+      "thumbnail": "/png/games/goober.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Google Baseball",
+      "url": "/gamefile/gbase.html",
+      "thumbnail": "/png/games/google.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Gorilla Tag, Webport",
+      "altNames": [
+        "Gorilla Tag"
+      ],
+      "url": "/games/gtag/index.html",
+      "thumbnail": "/png/games/gtag.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Go to bed, Webport",
+      "altNames": [
+        "Go to bed"
+      ],
+      "url": "/games/GTB/index.html",
+      "thumbnail": "/png/games/gotobed.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Granny",
+      "url": "/gamefile/granny.html",
+      "thumbnail": "/png/games/granny.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Granny 2",
+      "url": "/gamefile/Granny 2.html",
+      "thumbnail": "/png/games/gran2.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Granny 3",
+      "url": "/games/granny3/index.html",
+      "thumbnail": "/png/games/gran3.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Gravity run",
+      "url": "/games/gravity-run/index.html",
+      "thumbnail": "/png/games/gravity.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Greybox",
+      "url": "/games/graybox/index.html",
+      "thumbnail": "/png/games/grey.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "GTA I",
+      "url": "/games/gta/index.html",
+      "thumbnail": "/png/games/gta.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "GTA II",
+      "url": "/games/gta2/index.html",
+      "thumbnail": "/png/games/gta2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "GTA III",
+      "url": "/gamefile/gta3.html",
+      "thumbnail": "/png/games/gta3.webp",
+      "frameType": "iframe",
+      "altNames": [
+        "Grand Theft Auto III"
+      ]
+    },
+    {
+      "name": "GTA San Andreas",
+      "url": "/games/gtasan/index.html",
+      "thumbnail": "/png/games/gtasan.webp",
+      "frameType": "iframe",
+      "altNames": [
+        "Grand Theft Auto: San Andreas"
+      ]
+    },
+    {
+      "name": "GTA V",
+      "url": "/cloud/jy0108",
+      "thumbnail": "png/games/gta5.webp",
+      "frameType": "iframe",
+      "category": "cloud",
+      "altNames": [
+        "Grand Theft Auto V"
+      ]
+    },
+    {
+      "name": "GTA Vice City, Webport",
+      "url": "/games/vicecity/index.html",
+      "thumbnail": "/png/games/vice.webp",
+      "frameType": "iframe",
+      "altNames": [
+        "Grand Theft Auto: Vice City"
+      ]
+    },
+    {
+      "name": "GTA V MOD",
+      "url": "/cloud/jy0532",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20250208/20250208153431847.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "GUILTY GEAR -STRIVE-",
+      "url": "/cloud/kj0530",
+      "thumbnail": "png/games/guiltygearstrive.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Gun Mayhem",
+      "url": "/games/funmayhem/index.html",
+      "thumbnail": "/png/games/gun.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Gun Mayhem 2",
+      "url": "/games/funmayhem2/index.html",
+      "thumbnail": "png/games/gun2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Gun Mayhem Redux",
+      "url": "/games/funmayhemredux/index.html",
+      "thumbnail": "/png/games/gun3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Gunship Sequel: WW2",
+      "url": "https://web.cloudmoonapp.com/game/com.phanotek.wingsofduty/",
+      "thumbnail": "/png/games/gunshipsequelww2.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Gunspin",
+      "url": "/games/gunspin/index.html",
+      "thumbnail": "/png/games/guns.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Gym Manager",
+      "url": "/cloud/bs0060",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260703/20260703110509447.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Hades",
+      "url": "/cloud/jy0123",
+      "thumbnail": "png/games/hades.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Hades II",
+      "url": "/cloud/kj0499",
+      "thumbnail": "png/games/hadesii.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "HAIKYU!! FLY HIGH",
+      "url": "https://web.cloudmoonapp.com/game/com.garena.game.haikyu/",
+      "thumbnail": "/png/games/haikyuflyhigh.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Half life",
+      "url": "/games/hl-main/index.html",
+      "thumbnail": "/png/games/halflife.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Half life: Opposing Force",
+      "url": "/gamefile/hlof.html",
+      "thumbnail": "/png/games/hlof.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Halo: Reach",
+      "url": "/cloud/jy0371",
+      "thumbnail": "png/games/haloreach.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Halo: The Master Chief Collection",
+      "url": "/cloud/kj0229",
+      "thumbnail": "png/games/halotmcc.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Hand of Fate 2",
+      "url": "/cloud/jy0172",
+      "thumbnail": "png/games/handoffate2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Happy Wheels",
+      "url": "/games/happywheels/index.html",
+      "thumbnail": "/png/games/happy.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Harry Potter: Magic Awakened™",
+      "url": "https://web.cloudmoonapp.com/game/com.netease.harrypotter.na/",
+      "thumbnail": "/png/games/harrypottermagicawakenedtm.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "HATSUNE MIKU: COLORFUL STAGE!",
+      "url": "https://web.cloudmoonapp.com/game/com.sega.ColorfulStage.en/",
+      "thumbnail": "/png/games/hatsunemikucolorfulstage.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Hay Day",
+      "url": "https://web.cloudmoonapp.com/game/com.supercell.hayday/",
+      "thumbnail": "/png/games/hayday.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Hearthstone",
+      "url": "https://web.cloudmoonapp.com/game/com.blizzard.wtcg.hearthstone/",
+      "thumbnail": "/png/games/hearthstone.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Heartopia",
+      "url": "https://web.cloudmoonapp.com/game/com.xd.xdtglobal.gp/",
+      "thumbnail": "/png/games/heartopia.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Hell is Us",
+      "url": "/cloud/bs0111",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260924/20260924154405106.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Helltaker, Webport",
+      "url": "/gamefile/helltaker.html",
+      "thumbnail": "/png/games/helltaker.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Hill Climb Racing, Webport",
+      "url": "/games/hcr/",
+      "thumbnail": "png/games/hill.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Hitman 3",
+      "url": "/cloud/dg0168",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20250815/2025081515231470.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Hobo 1",
+      "url": "/gamefile/hobo1.html",
+      "thumbnail": "png/games/hobo.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Hobo 2",
+      "url": "/gamefile/hobo2.html",
+      "thumbnail": "png/games/hobo2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Hobo 3",
+      "url": "/gamefile/hobo3.html",
+      "thumbnail": "png/games/hobo3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Hobo 4",
+      "url": "/gamefile/hobo4.html",
+      "thumbnail": "png/games/hobo4.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Hobo 5",
+      "url": "/gamefile/hobo5.html",
+      "thumbnail": "png/games/hobo5.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Hobo 6",
+      "url": "/gamefile/hobo6.html",
+      "thumbnail": "png/games/hobo6.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Hobo 7",
+      "url": "/gamefile/hobo7.html",
+      "thumbnail": "png/games/hobo7.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Hogwarts Legacy",
+      "url": "/cloud/kj0166",
+      "thumbnail": "png/games/hogwartslegacy.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Hollow Knight, Webport",
+      "altNames": [
+        "Hollow Knight"
+      ],
+      "url": "/games/newesthk/index.html",
+      "thumbnail": "png/games/hollow.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "hololive Dreams",
+      "url": "https://web.cloudmoonapp.com/game/game.qualiarts.hololive.dreams.com/",
+      "thumbnail": "/png/games/hololivedreams.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Honkai Impact 3rd",
+      "url": "https://web.cloudmoonapp.com/game/com.miHoYo.bh3global/",
+      "thumbnail": "/png/games/honkaiimpact3rd.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Honkai: Star Rail",
+      "url": "https://nowgg.fun/apps/cognosphere-pte-ltd/1591/honkai-star-rail.html",
+      "thumbnail": "/png/games/honkai.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Honor of Kings",
+      "url": "https://web.cloudmoonapp.com/game/com.levelinfinite.sgameGlobal/",
+      "thumbnail": "/png/games/honorofkings.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Horizon Zero Dawn",
+      "url": "/cloud/dg0598",
+      "thumbnail": "png/games/horizonzerodawn.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Hotline Miami 2, Webport",
+      "altNames": [
+        "Hotline Miami 2"
+      ],
+      "url": "/games/hlm2/index.html",
+      "thumbnail": "png/games/hlm2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Hotline Miami, Webport",
+      "altNames": [
+        "Hotline Miami"
+      ],
+      "url": "/games/whores/index.html",
+      "thumbnail": "png/games/hot.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Hot Rod Mayhem",
+      "url": "/cloud/bs0068",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260904/20260904142616684.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "House Of Hazards",
+      "url": "/games/houseofhazards/index.html",
+      "thumbnail": "/png/games/house.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "How To Fish, Webport",
+      "altNames": [
+        "How To Fish"
+      ],
+      "url": "/games/htf/index.html",
+      "thumbnail": "png/games/htf.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "How to Train Your Dragon: Dawn of New Riders",
+      "url": "/cloud/jy0015",
+      "thumbnail": "png/games/howtotrainyourdragondawnofnewr.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "HUMAN EXPENDITURE PROGRAM, Webport",
+      "altNames": [
+        "HUMAN EXPENDITURE PROGRAM"
+      ],
+      "url": "/gamefile/human.html",
+      "thumbnail": "png/games/human.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "I Am Jesus Christ",
+      "url": "/cloud/bs0052",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260618/20260618144227530.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Ice Baby Quest 2",
+      "url": "/games/icebaby2/index.html",
+      "thumbnail": "png/games/icebaby2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Identity V",
+      "url": "https://web.cloudmoonapp.com/game/com.netease.idv.googleplay/",
+      "thumbnail": "/png/games/identityv.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Idle Breakout",
+      "url": "/games/idle-breakout/index.html",
+      "thumbnail": "png/games/idle.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "INDUSTRIA 2",
+      "url": "/cloud/bs0083",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260807/20260807163708404.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Infinity Nikki",
+      "url": "https://web.cloudmoonapp.com/game/com.infoldgames.infinitynikkien/",
+      "thumbnail": "/png/games/infinitynikki.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Inside the Backrooms",
+      "url": "/cloud/kj0179",
+      "thumbnail": "png/games/insidethebackrooms.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Into Space 1",
+      "url": "/games/is1/index.html",
+      "thumbnail": "png/games/intospace1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Into Space 2",
+      "url": "/games/is2/index.html",
+      "thumbnail": "png/games/intospace2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Into Space 3",
+      "url": "/games/is3/index.html",
+      "thumbnail": "png/games/intospace3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Invincible VS",
+      "url": "/cloud/bs0077",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260724/20260724172724981.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "inZOI",
+      "url": "/cloud/kj0620",
+      "thumbnail": "png/games/inzoi.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Iron Lung, Webport",
+      "url": "/games/ironlung/index.html",
+      "thumbnail": "png/games/iroonlung.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "I Sell Lemonade",
+      "url": "/cloud/bs0075",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260814/2026081413540396.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "It Takes Two",
+      "url": "/cloud/jy0440",
+      "thumbnail": "png/games/itt.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "I Wanna Be The Guy, Webport",
+      "url": "/games/iwbtg/index.html",
+      "thumbnail": "png/games/iwbtg.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "JDM: Japanese Drift Master",
+      "url": "/cloud/bs0026",
+      "thumbnail": "png/games/jdmjapanesedriftmaster.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Jeffrey Epstein Basics In Education And Kidnapping, Webport",
+      "url": "/gamefile/jeb.html",
+      "thumbnail": "/png/games/jeb.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Jeffys Basics, Webport",
+      "url": "/games/JeffysBasicsBog/index.html",
+      "thumbnail": "/png/games/jeffys.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Jelly Drift",
+      "url": "/gamefile/jelly.html",
+      "thumbnail": "/png/games/jelly.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Jetpack Joyride",
+      "url": "/games/jetpackjoyride/index.html",
+      "thumbnail": "/png/games/jet.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Jujutsu Kaisen Phantom Parade",
+      "url": "https://web.cloudmoonapp.com/game/com.bilibilihk.jujutsuphanparagp/",
+      "thumbnail": "/png/games/jujutsukaisenphantomparade.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Jumbo Mario",
+      "url": "/games/JumboMario/index.html",
+      "thumbnail": "/png/games/jumbo.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Just Rally 3: World Tour",
+      "url": "https://web.cloudmoonapp.com/game/com.MassolaRacing.JustRally3/",
+      "thumbnail": "/png/games/justrally3worldtour.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Kamikaze Strike: FPV Drone",
+      "url": "/cloud/bs0066",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260828/2026082815064652.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Karlson2D, Webport",
+      "altNames": [
+        "Karlson2D"
+      ],
+      "url": "/games/karlson2d/truffledkarlson2d/index.html",
+      "thumbnail": "/png/games/karlson2d.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Karlson, Webport",
+      "altNames": [
+        "Karlson"
+      ],
+      "url": "/gamefile/Karlson.html",
+      "thumbnail": "/png/games/karlson.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Katana ZERO",
+      "url": "/cloud/jy0120",
+      "thumbnail": "png/games/katanazero.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Kerbal Space Program, Webport",
+      "url": "/games/ksp/index.html",
+      "thumbnail": "/png/games/ksp.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Kick The Buddy, Webport",
+      "altNames": [
+        "Kick The Buddy"
+      ],
+      "url": "/games/kickthebuddy/index.html",
+      "thumbnail": "/png/games/ktb.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Kindergarten 1, Webport",
+      "altNames": [
+        "Kindergarten 1"
+      ],
+      "url": "/games/kindergarten/1/index.html",
+      "thumbnail": "/png/games/kind1.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Kindergarten 2, Webport",
+      "altNames": [
+        "Kindergarten 2"
+      ],
+      "url": "/games/kindergarten/2/index.html",
+      "thumbnail": "/png/games/kind2.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Kindergarten 3, Webport",
+      "altNames": [
+        "Kindergarten 3"
+      ],
+      "url": "/games/Kindergarten3/index.html",
+      "thumbnail": "/png/games/kind3.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Kinito Pet, Webport",
+      "url": "/games/kinitopet/index.html",
+      "thumbnail": "/png/games/kinto.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Kirby Soft And Wet, Webport",
+      "url": "/gamefile/kirbysoftandwet.html",
+      "thumbnail": "/png/games/kirbysoftandwet.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Klifur",
+      "url": "/games/kilfur/index.html",
+      "thumbnail": "/png/games/kil.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Knife Hit",
+      "url": "/games/knifehit/index.html",
+      "thumbnail": "/png/games/knife.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Knives Out",
+      "url": "https://web.cloudmoonapp.com/game/com.netease.ko/",
+      "thumbnail": "/png/games/knivesout.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Kristala",
+      "url": "/cloud/bs0085",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260814/20260814125834165.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Krunker",
+      "url": "/games/krunker/index.html",
+      "thumbnail": "/png/games/krunker.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Lacey's Flash Games, Webport",
+      "altNames": [
+        "Lacey's Flash Games"
+      ],
+      "url": "/gamefile/lacy.html",
+      "thumbnail": "png/games/lacey.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "La Madriguera",
+      "url": "/games/lamadriguera/index.html",
+      "thumbnail": "/png/games/labear.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "League of Legends: Wild Rift",
+      "url": "https://web.cloudmoonapp.com/game/com.riotgames.league.wildrift/",
+      "thumbnail": "/png/games/leagueoflegendswildrift.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Learn To Fly",
+      "url": "/games/learntofly/index.html",
+      "thumbnail": "png/games/learn1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Learn To Fly 2",
+      "url": "/games/learntofly2/index.html",
+      "thumbnail": "/png/games/learn2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Learn To Fly 3",
+      "url": "/games/ltf3/index.html",
+      "thumbnail": "/png/games/learn3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Learn To Fly Idle",
+      "url": "/games/learntoflyidle/index.html",
+      "thumbnail": "/png/games/learni.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Lego Star Wars",
+      "url": "/gamefile/legostarwars.html",
+      "thumbnail": "/png/games/legostarwars.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "LEGO The Incredibles",
+      "url": "/cloud/dg0163",
+      "thumbnail": "png/games/legoincred.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Lethal Ape, Webport",
+      "url": "/games/lethalape/index.html",
+      "thumbnail": "/png/games/lethalape.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Lethal Company, Webport",
+      "url": "/games/lethal/index.html",
+      "thumbnail": "/png/games/lethal.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Level Devil",
+      "url": "/games/lvldevil/index.html",
+      "thumbnail": "/png/games/level.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Life Makeover",
+      "url": "https://web.cloudmoonapp.com/game/com.archosaur.seareal.yslzm.gp/",
+      "thumbnail": "/png/games/lifemakeover.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Limbus Company",
+      "url": "https://web.cloudmoonapp.com/game/com.ProjectMoon.LimbusCompany/",
+      "thumbnail": "/png/games/limbuscompany.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Line Rider",
+      "url": "/games/linerider/index.html",
+      "thumbnail": "/png/games/line.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Little Alchemy",
+      "url": "/games/littlealchemy/index.html",
+      "thumbnail": "/png/games/lil.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Little Alchemy 2",
+      "url": "/gamefile/little2.html",
+      "thumbnail": "/png/games/little2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Little Big Planet",
+      "url": "/games/lbp/index.html",
+      "thumbnail": "/png/games/lbp.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Little Nightmares",
+      "url": "/cloud/jy0325",
+      "thumbnail": "png/games/lnmi.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Little Nightmares II",
+      "url": "/cloud/jy0416",
+      "thumbnail": "png/games/lnmii.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Little Nightmares III",
+      "url": "/cloud/bs0039",
+      "thumbnail": "png/games/lnmiii.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Lobotomy Corporation, Webport",
+      "url": "/games/lobcorp/index.html",
+      "thumbnail": "/png/games/lobotomycorp.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Lolbeans.io",
+      "url": "https://lolbeans.io/",
+      "thumbnail": "/png/games/lolbeans.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Lost Sword",
+      "url": "https://web.cloudmoonapp.com/game/com.wemadeconnect.aos.lostdgl/",
+      "thumbnail": "/png/games/lostsword.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Love and Deepspace",
+      "url": "https://web.cloudmoonapp.com/game/com.papegames.lysk.en/",
+      "thumbnail": "/png/games/loveanddeepspace.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Lovebrush Chronicles",
+      "url": "https://web.cloudmoonapp.com/game/com.netease.skzdhlrna/",
+      "thumbnail": "/png/games/lovebrushchronicles.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Machine Party",
+      "url": "/games/mp/index.html",
+      "thumbnail": "/png/games/machineparty.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Madden NFL 24 Mobile Football",
+      "url": "https://nowgg.fun/apps/electronic-arts/1731/madden-nfl-24-mobile-football.html",
+      "thumbnail": "png/games/madden24.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Madden NFL 27 Mobile Football",
+      "url": "https://web.cloudmoonapp.com/game/com.ea.gp.maddennfl21mobile/",
+      "thumbnail": "/png/games/maddennfl27mobilefootball.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Madness Accelerant",
+      "url": "/gamefile/madnessaccelerant.html",
+      "thumbnail": "/png/games/madnessaccelerant.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Madness Ambulation",
+      "url": "/games/madnessambulation/madnessambulation.html",
+      "thumbnail": "/png/games/madnessambulation.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Madness Combat Defense",
+      "url": "/gamefile/madnesscombatdefense.html",
+      "thumbnail": "/png/games/madnesscombatdefense.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Madness Combat FPS Fueled by Hot Dogs",
+      "url": "/gamefile/madnesscfpsfbhd.html",
+      "thumbnail": "/png/games/madnesscfpsfbhd.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Madness Gemini",
+      "url": "/gamefile/madnessgemini.html",
+      "thumbnail": "/png/games/madnessgemini.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Madness Hydraulic",
+      "url": "/gamefile/madnesshydraulic.html",
+      "thumbnail": "/png/games/madnesshydraulic.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Madness Interactive",
+      "url": "/gamefile/madnessinteractive.html",
+      "thumbnail": "/png/games/madnessinteractive.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Madness Melee",
+      "url": "/games/bogtruffled/index.html",
+      "thumbnail": "/png/games/madness.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Madness Off Color",
+      "url": "/gamefile/madnessoffcolor.html",
+      "thumbnail": "/png/games/madnessoffcolor.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Madness Premediation",
+      "url": "/gamefile/madnesspremediation.html",
+      "thumbnail": "/png/games/madnesspremediation.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Madness Project Nexus",
+      "url": "/gamefile/madnesscombatnexus.html",
+      "thumbnail": "/png/games/madnesscombatnexus.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Madness Retaliation",
+      "url": "/gamefile/madnessretaliation.html",
+      "thumbnail": "/png/games/madnessretaliation.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Mafia: Definitive Edition",
+      "url": "/cloud/jy0307",
+      "thumbnail": "png/games/mafiadefinitiveedition.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Mafia II: Definitive Edition",
+      "url": "/cloud/dg0491",
+      "thumbnail": "png/games/mafiaiidefinitiveedition.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Mafia III: Definitive Edition",
+      "url": "/cloud/dg0492",
+      "thumbnail": "png/games/mafiaiiidefinitiveedition.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Mafia: The Old Country",
+      "url": "/cloud/bs0092",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260717/20260717171729202.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Magic Chess: Go Go",
+      "url": "https://web.cloudmoonapp.com/game/com.mobilechess.gp/",
+      "thumbnail": "/png/games/magicchessgogo.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Maid of Sker",
+      "url": "/cloud/bs0070",
+      "thumbnail": "png/games/maidofsker.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Mandragora: Whispers of the Witch Tree",
+      "url": "/cloud/bs0019",
+      "thumbnail": "png/games/mandragorawhispersofthewitchtr.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Manor Lords",
+      "url": "/cloud/kp0213",
+      "thumbnail": "png/games/manorlords.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Mario Kart 7",
+      "url": "/games/mk7/index.html",
+      "thumbnail": "/png/games/mk7.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Mario Kart 64",
+      "url": "/games/mk64/index.html",
+      "thumbnail": "/png/games/mk64.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Mario Kart DS",
+      "url": "/games/mkds/index.html",
+      "thumbnail": "/png/games/mkds.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Mario Party 1",
+      "url": "/gamefile/marioparty.html",
+      "thumbnail": "/png/games/marioparty1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Mario Party 2",
+      "url": "/gamefile/marioparty2.html",
+      "thumbnail": "/png/games/marioparty2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Mario Party 3",
+      "url": "/gamefile/marioparty3.html",
+      "thumbnail": "/png/games/marioparty3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "MARVEL Future Fight",
+      "url": "https://web.cloudmoonapp.com/game/com.netmarble.mherosgb/",
+      "thumbnail": "/png/games/marvelfuturefight.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Marvel’s Spider-Man: Miles Morales",
+      "url": "/cloud/kj0125",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20251218/20251218002310690.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Marvel’s Spider-Man Remastered",
+      "url": "/cloud/kj0089",
+      "thumbnail": "png/games/marvelsspidermanremastered.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Mecharashi",
+      "url": "https://web.cloudmoonapp.com/game/com.tentree.gp.un.mecharashi/",
+      "thumbnail": "/png/games/mecharashi.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Mech Arena - Shooting Game",
+      "url": "https://web.cloudmoonapp.com/game/com.plarium.mechlegion/",
+      "thumbnail": "/png/games/mecharenashootinggame.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "MechWarrior 5: Mercenaries",
+      "url": "/cloud/bs0120",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260904/20260904152334682.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Megaman",
+      "url": "/gamefile/megaman.html",
+      "thumbnail": "/png/games/megaman.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Melon Playground",
+      "url": "/games/melon-playground/index.html",
+      "thumbnail": "/png/games/melon.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Melon Sandbox",
+      "url": "/games/melon-playground/index.html",
+      "thumbnail": "/png/games/melonsandbox.webp",
+      "frameType": "iframe",
+      "category": "game"
+    },
+    {
+      "name": "MementoMori: AFKRPG",
+      "url": "https://web.cloudmoonapp.com/game/jp.boi.mementomori.android/",
+      "thumbnail": "/png/games/mementomoriafkrpg.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Merge Rot",
+      "url": "/games/mergerot/index.html",
+      "thumbnail": "/png/games/rot.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Milkman karlson, Webport",
+      "altNames": [
+        "Milkman karlson"
+      ],
+      "url": "/games/milk/index.html",
+      "thumbnail": "png/games/milk.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Mindustry, Webport",
+      "altNames": [
+        "Mindustry"
+      ],
+      "url": "/gamefile/mindustry.html",
+      "thumbnail": "png/games/mindustry.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Minecraft",
+      "url": "/games/wispcraft/eag.html",
+      "thumbnail": "/png/games/mc.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Minecraft 1.8.8",
+      "url": "/games/eglar/EaglercraftX_1dot8_Web/index.html",
+      "thumbnail": "/games/eglar/1.8.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Minecraft 1.12.2",
+      "url": "/games/eglar/1dot12dot2/index.html",
+      "thumbnail": "/games/eglar/1.12.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Minecraft:Dungeons",
+      "url": "/cloud/jy0402",
+      "thumbnail": "png/games/minecraftdungeons.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Minecraft Education",
+      "url": "https://web.cloudmoonapp.com/game/com.mojang.minecraftedu/",
+      "thumbnail": "/png/games/minecrafteducation.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Minecraft Legacy Console Edition, Webport",
+      "altNames": [
+        "Minecraft Legacy Console Edition"
+      ],
+      "url": "/games/lce/index.html",
+      "thumbnail": "png/games/mclce.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Minecraft: Legends",
+      "url": "/cloud/kj0191",
+      "thumbnail": "png/games/minecraftleg.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Minecraft Pocket Edition, Webport",
+      "url": "/games/mcpe/index.html",
+      "thumbnail": "/png/games/mcpe.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Minecraft Wurst",
+      "url": "/games/eglar/clwurst.html",
+      "thumbnail": "/games/eglar/wurst.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Minesweeper Mania",
+      "url": "/gamefile/minesweepermania.html",
+      "thumbnail": "/png/games/minese.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Minesweeper Plus, Webport",
+      "url": "/gamefile/mineplus.html",
+      "thumbnail": "/png/games/mineseplu.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Mirror's Edge Catalyst",
+      "url": "/cloud/dg0090",
+      "thumbnail": "png/games/mirrorsedgecatalyst.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Miside, Webport",
+      "url": "/gamefile/miside.html",
+      "thumbnail": "/png/games/miside.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Mobile Legends: Bang Bang",
+      "url": "https://web.cloudmoonapp.com/game/com.mobile.legends/",
+      "thumbnail": "/png/games/mobilelegendsbangbang.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Modern Warships: Naval Battles",
+      "url": "https://web.cloudmoonapp.com/game/com.Shooter.ModernWarships/",
+      "thumbnail": "/png/games/modernwarshipsnavalbattles.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "MONGIL: STAR DIVE",
+      "url": "https://web.cloudmoonapp.com/game/com.netmarble.monster2/",
+      "thumbnail": "/png/games/mongilstardive.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Monkey Mart",
+      "url": "/games/MonkeyMart/index.html",
+      "thumbnail": "png/games/monkey.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Monster Tracks",
+      "url": "/games/monster-tracks/index.html",
+      "thumbnail": "/png/games/monster.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Moto X3M",
+      "url": "/games/motox3m/index.html",
+      "thumbnail": "/png/games/moto.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Mount & Blade II: Bannerlord",
+      "url": "/cloud/kj0190",
+      "thumbnail": "png/games/mountbladeiibannerlord.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "My Friend Pedro",
+      "url": "/cloud/jy0473",
+      "thumbnail": "png/games/mfp.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "My Singing Monsters",
+      "url": "https://nowgg.fun/apps/big-blue/8811/singing-monsters.html",
+      "thumbnail": "png/games/msm.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "My Talking Baby Hippo, Webport",
+      "url": "/games/mtbh/index.html",
+      "thumbnail": "png/games/hippo.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "My teardrop, daniel",
+      "altNames": [
+        "My Teardrop"
+      ],
+      "url": "/gamefile/mytear.html",
+      "thumbnail": "/png/games/mytear.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Naruto Shippuden: Ultimate Ninja Storm 4",
+      "url": "/cloud/jy0009",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260429/20260429151802428.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Nazi Zombies: Portable",
+      "url": "/gamefile/nzp.html",
+      "thumbnail": "png/games/nazi.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "NBA 2K23",
+      "url": "/cloud/kj0107",
+      "thumbnail": "png/games/nba2k23.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Need for Speed: Payback",
+      "url": "/cloud/kj0181",
+      "thumbnail": "png/games/needforspeedpayback.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Needy Streamer Overload, Webport",
+      "url": "/games/nso/index.html",
+      "thumbnail": "/png/games/nso.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Neon Abyss",
+      "url": "/cloud/dg0359",
+      "thumbnail": "png/games/neonabyss.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "New Super Mario Bros",
+      "url": "/games/nsmb/index.html",
+      "thumbnail": "/png/games/nsmb.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "n-gon",
+      "url": "/games/n-gon/index.html",
+      "thumbnail": "/png/games/ngon.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "NieR:Automata™",
+      "url": "/cloud/jy0103",
+      "thumbnail": "png/games/nierautomata.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Ninja Turtles: Legends",
+      "url": "https://web.cloudmoonapp.com/game/com.ludia.tmnt/",
+      "thumbnail": "/png/games/ninjaturtleslegends.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Nintendo Star Brawl",
+      "url": "/cloud/kj0332",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20220308/20220308113443136.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Nioh 3",
+      "url": "/cloud/bs0123",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260911/20260911143809479.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Node Buster, Webport",
+      "url": "/games/nodebuster/index.html",
+      "thumbnail": "/png/games/nodebuster.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Noomiclone",
+      "url": "/games/noomi/",
+      "thumbnail": "png/games/noomiclone.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "NTE: Neverness to Everness",
+      "url": "https://web.cloudmoonapp.com/game/com.hottagames.nte/",
+      "thumbnail": "/png/games/ntenevernesstoeverness.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Nubbys Number Factory, Webport",
+      "url": "/gamefile/nubby.html",
+      "thumbnail": "/png/games/nubby.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Oddsparks: An Automation Adventure",
+      "url": "/cloud/bs0064",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260710/20260710155543902.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Of Ash and Steel",
+      "url": "/cloud/bs0076",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260814/20260814124752195.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Off-Road Heroes 4",
+      "url": "/cloud/jy0112",
+      "thumbnail": "https://download-oss.raccoongame.com/images/games/cg0020044/b004_zunxiangtuijian_2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Om Nom Run",
+      "url": "/gamefile/omnomrun.html",
+      "thumbnail": "png/games/omnomrun.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "OMORI, Webport",
+      "url": "/gamefile/OMORI.html",
+      "thumbnail": "png/games/omori.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Once Human",
+      "url": "https://web.cloudmoonapp.com/game/com.h73.jhqyna/",
+      "thumbnail": "/png/games/oncehuman.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "ONE PIECE Bounty Rush",
+      "url": "https://web.cloudmoonapp.com/game/com.bandainamcoent.opbrww/",
+      "thumbnail": "/png/games/onepiecebountyrush.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "One Piece: Burning Blood",
+      "url": "/cloud/jy0059",
+      "thumbnail": "png/games/opbb.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "ONE PIECE: PIRATE WARRIORS 4",
+      "url": "/cloud/jy0183",
+      "thumbnail": "png/games/oppw4.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Oneshot, Webport",
+      "url": "/gamefile/oneshot.html",
+      "thumbnail": "png/games/oneshot.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Oneshot World Machine Edition, Webport",
+      "url": "/games/worldmachine/index.html",
+      "thumbnail": "png/games/oneshotwm.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Only Up",
+      "url": "/cloud/bs0025",
+      "thumbnail": "png/games/onlyup.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Orange Roulette",
+      "url": "/gamefile/orange.html",
+      "thumbnail": "/png/games/orange.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Ori and the Blind Forest",
+      "url": "/cloud/jy0094",
+      "thumbnail": "png/games/oriandtheblindforest.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Ori and the Will of the Wisps",
+      "url": "/cloud/jy0126",
+      "thumbnail": "png/games/oriandthewillofthewisps.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Oshi Oshi Punch",
+      "url": "/gamefile/onshi.html",
+      "thumbnail": "/png/games/oshi.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Osu!",
+      "url": "/games/osu/index.html",
+      "thumbnail": "/png/games/osu.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "OUTERPLANE - Strategy Anime",
+      "url": "https://web.cloudmoonapp.com/game/com.smilegate.outerplane.stove.google/",
+      "thumbnail": "/png/games/outerplanestrategyanime.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Overburden, Webport",
+      "url": "/gamefile/overburden.html",
+      "thumbnail": "/png/games/overburden.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Overcooked 2",
+      "url": "/cloud/jy0281",
+      "thumbnail": "png/games/overcooked2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "OvO",
+      "url": "/games/ovo/index.html",
+      "thumbnail": "png/games/ovo.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "OvO 2",
+      "url": "/games/OvO2/index.html",
+      "thumbnail": "/png/games/ovo2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "OvO Dimensions",
+      "url": "/games/OvoDimensions/index.html",
+      "thumbnail": "/png/games/ovodi.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "P5X | Persona5: The Phantom X",
+      "url": "https://web.cloudmoonapp.com/game/com.sega.persona5.the.phantomx.en/",
+      "thumbnail": "/png/games/p5xpersona5thephantomx.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Pacman",
+      "url": "/games/pacman/index.html",
+      "thumbnail": "/png/games/pacman.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pacman World",
+      "url": "/gamefile/pacmanw.html",
+      "thumbnail": "/png/games/pacmanworld.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pacman World 2",
+      "url": "/gamefile/pacmanw2.html",
+      "thumbnail": "/png/games/pacmanworld2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Paint Gal Adventures",
+      "url": "/games/paintbog/Paint Gal Adventures.html",
+      "thumbnail": "/png/games/paintgal.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Palworld",
+      "url": "/cloud/bs0138",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260924/20260924165215258.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Papas Bakeria",
+      "url": "/games/papasbakeria/index.html",
+      "thumbnail": "/png/games/bake.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Papas Burgeria",
+      "url": "/games/papasburgeria/index.html",
+      "thumbnail": "/png/games/burger.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Papas Cheeseria",
+      "url": "/games/papascheeseria/index.html",
+      "thumbnail": "/png/games/cheese.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Papas Donuteria",
+      "url": "/games/papasdonuteria/index.html",
+      "thumbnail": "/png/games/donut.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Papas Freezeria",
+      "url": "/games/papasfreezeria/index.html",
+      "thumbnail": "/png/games/freeze.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Papas Pizzaeria",
+      "url": "/games/papaspizza/index.html",
+      "thumbnail": "/png/games/pizza.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Paperio 2",
+      "url": "/games/paperio2/index.html",
+      "thumbnail": "/png/games/paperio2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Paper Mario",
+      "url": "/gamefile/papermario.html",
+      "thumbnail": "/png/games/papermario.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Papers, Please",
+      "url": "/gamefile/papers.html",
+      "thumbnail": "/png/games/papers.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Parappa The Rapper",
+      "url": "/games/paps/index.html",
+      "thumbnail": "/png/games/rapper.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Parappa The Rapper 2",
+      "url": "/games/parappa2/index.html",
+      "thumbnail": "/png/games/parappa2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Party Hard2",
+      "url": "/cloud/jy0470",
+      "thumbnail": "png/games/partyhard2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Path to Nowhere",
+      "url": "https://web.cloudmoonapp.com/game/com.zy.wqmt.global/",
+      "thumbnail": "/png/games/pathtonowhere.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Peaks of Yore, Webport",
+      "url": "/gamefile/peaksofyore.html",
+      "thumbnail": "png/games/peaksofyore.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Peak, Webport",
+      "url": "/games/peak/index.html",
+      "thumbnail": "png/games/peak.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Peggle",
+      "url": "/gamefile/Peggle.html",
+      "thumbnail": "png/games/peggle.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Peggle Deluxe",
+      "url": "/games/pegg/deluxe/index.html",
+      "thumbnail": "png/games/pegdeluxe.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Peggle Extreme",
+      "url": "/games/pegg/extreme/index.html",
+      "thumbnail": "png/games/pegextreme.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Peggle Nights",
+      "url": "/games/pegg/nights/index.html",
+      "thumbnail": "png/games/pegnights.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Peggle WoW Edition",
+      "url": "/games/pegg/wow/index.html",
+      "thumbnail": "png/games/pegwow.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pego (Prototype)",
+      "url": "/games/pegg/pego/index.html",
+      "thumbnail": "png/games/pegoo.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "People Playground, Webport",
+      "url": "/games/ppg/index.html",
+      "thumbnail": "png/games/peoplepg.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Persona 5 Strikers",
+      "url": "/cloud/bs0067",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260807/20260807161230470.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "PES 2017",
+      "url": "/cloud/jy0017",
+      "thumbnail": "png/games/pes2017.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Phineas and Ferb: Transport-inators of Doom, Webport",
+      "altNames": [
+        "Phineas and Ferb: Transport-inators of Doom"
+      ],
+      "url": "/games/dooom/index.html",
+      "thumbnail": "/png/games/dooom.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Phoenix Point",
+      "url": "/cloud/bs0073",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260821/20260821144644241.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Pikuniku, Webport",
+      "altNames": [
+        "Pikuniku"
+      ],
+      "url": "/games/pikubog/index.html",
+      "thumbnail": "/png/games/piku.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Pixel Gun 3D",
+      "url": "/games/pixl/index.html",
+      "thumbnail": "/png/games/pixelgun.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pizza Ready!",
+      "url": "https://web.cloudmoonapp.com/game/io.supercent.pizzaidle/",
+      "thumbnail": "/png/games/pizzaready.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Pizza Tower: Scoutdigo",
+      "url": "/gamefile/pts.html",
+      "thumbnail": "/png/games/pts.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pizza Tower, Webport",
+      "url": "/games/NoiseUpdate/index.html",
+      "thumbnail": "/png/games/pizzatower.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pizzatron 3000",
+      "url": "/games/pizza/index.html",
+      "thumbnail": "/png/games/pizza3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Plague Inc.",
+      "url": "/games/PlagueInc/index.html",
+      "thumbnail": "/png/games/plagueinc.webp",
+      "frameType": "iframe",
+      "category": "game"
+    },
+    {
+      "name": "Plants VS Zombies",
+      "url": "/gamefile/pvs.html",
+      "thumbnail": "/png/games/pvz.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Plants VS Zombies Garden Endless",
+      "url": "/games/pvzge/index.html",
+      "thumbnail": "/png/games/pvz2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Plants vs Zombies™ 2",
+      "url": "https://web.cloudmoonapp.com/game/com.ea.game.pvz2_row/",
+      "thumbnail": "/png/games/plantsvszombiestm2.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Platform 8",
+      "url": "/cloud/kj0529",
+      "thumbnail": "png/games/platform8.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Plauge Inc, Webport",
+      "altNames": [
+        "Plauge Inc"
+      ],
+      "url": "/games/PlagueInc/index.html",
+      "thumbnail": "/png/games/plaugeinc.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Pokemon Academy Life Forever",
+      "url": "/gamefile/pokemonacademy.html",
+      "thumbnail": "/png/games/pokemonacademy.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pokemon Blue",
+      "url": "/gamefile/blue.html",
+      "thumbnail": "/png/games/blue.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pokemon Crystal",
+      "url": "/gamefile/blob.html",
+      "thumbnail": "/png/games/crystal.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pokemon Emerald",
+      "url": "/gamefile/em.html",
+      "thumbnail": "/png/games/em.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pokemon Gold",
+      "url": "/gamefile/gold.html",
+      "thumbnail": "/png/games/gold.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pokémon Legends: Arceus",
+      "url": "/cloud/kj0032",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260122/20260122010947516.png",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Pokemon Red",
+      "url": "/gamefile/red.html",
+      "thumbnail": "/png/games/pokemonfirered.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pokemon Stadium",
+      "url": "/gamefile/pokestad.html",
+      "thumbnail": "/png/games/pokestad.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pokemon Stadium 2",
+      "url": "/gamefile/pokestad2.html",
+      "thumbnail": "/png/games/pokestad2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pokémon TCG Pocket",
+      "url": "https://web.cloudmoonapp.com/game/jp.pokemon.pokemontcgp/",
+      "thumbnail": "/png/games/pokemontcgpocket.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Pokémon UNITE",
+      "url": "https://web.cloudmoonapp.com/game/jp.pokemon.pokemonunite/",
+      "thumbnail": "/png/games/pokemonunite.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Polytrack",
+      "url": "/games/polytrack/index.html",
+      "thumbnail": "png/games/poly.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Poppy Playtime: Chapter 1",
+      "url": "/cloud/kj0137",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20250312/20250312113635587.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Poppy Playtime: Chapter 2",
+      "url": "/cloud/kj0138",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20250312/20250312142044488.png",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Poppy Playtime - Chapter 3",
+      "url": "/cloud/kj0442",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20250226/20250226105957398.png",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Poppy Playtime - Chapter 4",
+      "url": "/cloud/dg0730",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20250328/20250328170938528.png",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Portal",
+      "url": "/games/portal/index.html",
+      "thumbnail": "png/games/portal.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Portal 2",
+      "url": "/games/portal2/portal2/index.html",
+      "thumbnail": "png/games/p2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Postal, Webport",
+      "url": "/gamefile/postal.html",
+      "thumbnail": "/png/games/postal.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Potion Craft Alchemy Simulator, Webport",
+      "url": "/games/pcraft/index.html",
+      "thumbnail": "/png/games/pcraft.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "PRAGMATA",
+      "url": "/cloud/bs0094",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260717/20260717173741180.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Pretend its not there, Webport",
+      "altNames": [
+        "Pretend its not there"
+      ],
+      "url": "/games/pretenditsnotthere/index.html",
+      "thumbnail": "/png/games/pre.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Prodigy",
+      "url": "/games/prodigy/select/index.html",
+      "thumbnail": "/png/games/prodigy.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "PUBG MOBILE",
+      "url": "https://web.cloudmoonapp.com/game/com.tencent.ig/",
+      "thumbnail": "/png/games/pubgmobile2.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "PUBG Mobile: Aftermath",
+      "url": "https://nowgg.fun/apps/proxima-beta/2609/pubg-mobile-resistance.html",
+      "thumbnail": "png/games/pubgmobile.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Punishing: Gray Raven",
+      "url": "https://web.cloudmoonapp.com/game/com.kurogame.gplay.punishing.grayraven.en/",
+      "thumbnail": "/png/games/punishinggrayraven.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Quake",
+      "url": "/games/quake/index.html",
+      "thumbnail": "png/games/quake.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Quake II",
+      "url": "/games/quakeii/index.html",
+      "thumbnail": "png/games/quakeii.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Quake III",
+      "url": "/games/quakeiii/Quake3.htm",
+      "thumbnail": "png/games/quakeiii.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Quarantine Zone - The Last Check",
+      "url": "/cloud/bs0057",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260626/20260626144102556.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Rabbids Alive And Kicking",
+      "url": "/games/rabbidsa/index.html",
+      "thumbnail": "/png/games/rabbidalive.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Rabbids Travel In Time",
+      "url": "/games/rabbidst/index.html",
+      "thumbnail": "/png/games/rabbidstravel.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Racing Master",
+      "url": "https://web.cloudmoonapp.com/game/com.netease.dfjssea/",
+      "thumbnail": "/png/games/racingmaster.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Raft Wars",
+      "url": "/games/raft-wars/index.html",
+      "thumbnail": "/png/games/raft1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Raft Wars 2",
+      "url": "/games/raft-wars-2/index.html",
+      "thumbnail": "/png/games/raft2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "RAFT, Webport",
+      "altNames": [
+        "RAFT",
+        "Raft"
+      ],
+      "url": "/games/raft/index.html",
+      "thumbnail": "/png/games/raft.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Ragdoll Archers",
+      "url": "/games/ragdoll-archers/index.html",
+      "thumbnail": "/png/games/archer.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Ragdoll Hit",
+      "url": "/games/ragdoll/index.html",
+      "thumbnail": "/png/games/hit.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Ragnarok Origin Global",
+      "url": "https://web.cloudmoonapp.com/game/com.gravity.roo.sea/",
+      "thumbnail": "/png/games/ragnarokoriginglobal.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "RAID: Shadow Legends",
+      "url": "https://web.cloudmoonapp.com/game/com.plarium.raidlegends/",
+      "thumbnail": "/png/games/raidshadowlegends.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Rainbow Six Mobile",
+      "url": "https://web.cloudmoonapp.com/game/com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter/",
+      "thumbnail": "/png/games/rainbowsixmobile.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Raldi's Crack House",
+      "url": "/games/raldi/index.html",
+      "thumbnail": "/png/games/raldi.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Ranch Simulator22",
+      "url": "/cloud/kj0085",
+      "thumbnail": "png/games/ranchsimulator2022.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Random Dice Defense : PvP TD",
+      "url": "https://web.cloudmoonapp.com/game/com.percent.royaldice/",
+      "thumbnail": "/png/games/randomdicedefensepvptd.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Ratchet & Clank",
+      "url": "/cloud/kj0287",
+      "thumbnail": "png/games/ratchetclank.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Rayman",
+      "url": "/gamefile/rayman.html",
+      "thumbnail": "/png/games/rayman.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Red Dead Redemption",
+      "url": "/cloud/bs0095",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260724/20260724175308547.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "url": "/cloud/jy0333",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260407/20260407165500251.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "REPO, Webport",
+      "altNames": [
+        "REPO"
+      ],
+      "url": "/games/repo/index.html",
+      "thumbnail": "/png/games/repo.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "RE:RUN, Webport",
+      "altNames": [
+        "RE:RUN"
+      ],
+      "url": "/games/rerun/index.html",
+      "thumbnail": "png/games/rerun.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Resident Evil 1",
+      "url": "/gamefile/res1.html",
+      "thumbnail": "png/games/res1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Resident Evil 2",
+      "url": "/gamefile/res2.html",
+      "thumbnail": "png/games/res2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Resident Evil 2: Remake",
+      "url": "/cloud/jy0040",
+      "thumbnail": "png/games/residentevil2remake.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Resident Evil 4",
+      "url": "/cloud/kj0213",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260515/202605151629306.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Resident Evil 7: Biohazard",
+      "url": "/cloud/jy0095",
+      "thumbnail": "png/games/residentevil7biohazard.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Resident Evil Requiem",
+      "url": "/cloud/bs0055",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260618/20260618144515330.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Resident Evil: Revelations 2",
+      "url": "/cloud/jy0235",
+      "thumbnail": "png/games/residentevilrevelations2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Resident Evil Village",
+      "url": "/cloud/kp0175",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260626/20260626144246541.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Resonance Solstice",
+      "url": "https://web.cloudmoonapp.com/game/com.ujoy.reso/",
+      "thumbnail": "/png/games/resonancesolstice.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Retro Bowl",
+      "url": "/games/retro-bowl/index.html",
+      "thumbnail": "png/games/retro.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Retro Bowl College",
+      "url": "/games/rbcollege/index.html",
+      "thumbnail": "png/games/retroc.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Reverse: 1999 - 3rd Anniv.",
+      "url": "https://web.cloudmoonapp.com/game/com.bluepoch.m.en.reverse1999/",
+      "thumbnail": "/png/games/reverse19993rdanniv.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Rhythm Heaven",
+      "url": "/gamefile/rhythm.html",
+      "thumbnail": "png/games/rhythm.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Rhythm Hell",
+      "url": "/games/rhythm-hell/index.html",
+      "thumbnail": "png/games/rhythmhell.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Riddle School",
+      "url": "/games/riddleschool/index.html",
+      "thumbnail": "png/games/riddle1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Riddle School 2",
+      "url": "/games/sriddleschool2/index.html",
+      "thumbnail": "/png/games/riddle2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Riddle School 3",
+      "url": "/games/riddleschool3/index.html",
+      "thumbnail": "/png/games/riddle3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Riddle School 4",
+      "url": "/games/riddleschool4/index.html",
+      "thumbnail": "/png/games/riddle4.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Riddle School 5",
+      "url": "/games/riddleschool5/index.html",
+      "thumbnail": "/png/games/riddle5.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Riddle School Transfer",
+      "url": "/games/riddleschooltransfer/index.html",
+      "thumbnail": "/png/games/riddletr.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Riddle School Transfer 2",
+      "url": "/games/riddleschooltransfer2/index.html",
+      "thumbnail": "/png/games/riddletr2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Rimworld, Webport",
+      "url": "/games/rimworld/index.html",
+      "thumbnail": "/png/games/rimword.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Rise of the Tomb Raider",
+      "url": "/cloud/jy0121",
+      "thumbnail": "png/games/rottomb.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Rival Stars Horse Racing",
+      "url": "https://web.cloudmoonapp.com/game/com.pikpok.hrc.play/",
+      "thumbnail": "/png/games/rivalstarshorseracing.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Roblox",
+      "url": "https://nowgg.fun/apps/a/19900/b.html",
+      "thumbnail": "/png/games/roblox.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Roblox (revival), Webport",
+      "url": "https://better16.xyz",
+      "thumbnail": "/png/games/r16.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Rocket League Sideswipe",
+      "url": "https://nowgg.fun/apps/psyonix-studios/4656/rocket-league.html",
+      "thumbnail": "/png/games/rrs.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Rooftop Snipers",
+      "url": "/games/rooftop-snipers/index.html",
+      "thumbnail": "/png/games/roof2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Rooftop Snipers 2",
+      "url": "/games/rooftop-snipers-2/index.html",
+      "thumbnail": "/png/games/roof1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Royal Match",
+      "url": "https://web.cloudmoonapp.com/game/com.dreamgames.royalmatch/",
+      "thumbnail": "/png/games/royalmatch.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Run",
+      "url": "/gamefile/run.html",
+      "thumbnail": "png/games/run1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Run 2",
+      "url": "/gamefile/run2.html",
+      "thumbnail": "png/games/run2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Run 3",
+      "url": "/gamefile/run3.html",
+      "thumbnail": "png/games/run3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "RuneScape: Dragonwilds",
+      "url": "/cloud/bs0022",
+      "thumbnail": "png/games/runescapedragon.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Running Fred, Webport",
+      "url": "/games/fred/index.html",
+      "thumbnail": "png/games/fred.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Saihate Station, Webport",
+      "url": "/gamefile/saihatestation.html",
+      "thumbnail": "png/games/saihatestation.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Sandboxels",
+      "url": "/gamefile/Sandboxels.html",
+      "thumbnail": "png/games/sand.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "SAND LAND",
+      "url": "/cloud/dg0419",
+      "thumbnail": "png/games/sandland.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Sanic Ball, Webport",
+      "altNames": [
+        "Sanic Ball"
+      ],
+      "url": "/games/ball/index.html",
+      "thumbnail": "png/games/sanicball.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Scary Path",
+      "url": "/games/scary-path/index.html",
+      "thumbnail": "png/games/path.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Scary Teacher 3D",
+      "url": "/gamefile/scary.html",
+      "thumbnail": "png/games/scary.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Schedule 1",
+      "url": "/cloud/bs0024",
+      "thumbnail": "png/games/schedule1.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Schoolboy Runaway, Webport",
+      "url": "/gamefile/runaway.html",
+      "thumbnail": "/png/games/runaway.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "SCP: Secret Laboratory, Webport",
+      "url": "/games/scp/scp.html",
+      "thumbnail": "png/games/scp.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "SCUM",
+      "url": "/cloud/kj0222",
+      "thumbnail": "png/games/scum.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "SD Gundam G Generation ETERNAL",
+      "url": "https://web.cloudmoonapp.com/game/com.bandainamcoent.gget_WW/",
+      "thumbnail": "/png/games/sdgundamggenerationeternal.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Sekiro: Shadows Die Twice",
+      "url": "/cloud/jy0038",
+      "thumbnail": "png/games/sekiroshadowsdietwice.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Seven Knights Idle Adventure",
+      "url": "https://web.cloudmoonapp.com/game/com.netmarble.skiagb/",
+      "thumbnail": "/png/games/sevenknightsidleadventure.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Shadowverse: Worlds Beyond",
+      "url": "https://web.cloudmoonapp.com/game/jp.co.cygames.ShadowverseWorldsBeyond/",
+      "thumbnail": "/png/games/shadowverseworldsbeyond.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Shift At Midnight, Webport",
+      "url": "/gamefile/shift.html",
+      "thumbnail": "/png/games/shift.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Shining Nikki-Fashion Makeover",
+      "url": "https://web.cloudmoonapp.com/game/com.papegames.nn4.en/",
+      "thumbnail": "/png/games/shiningnikkifashionmakeover.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Shrimp.io, Webport",
+      "url": "/games/shrimpio/index.html",
+      "thumbnail": "png/games/shrimpio.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Silksong, Webport",
+      "url": "/games/silk/index.html",
+      "thumbnail": "png/games/silk.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Sim Racing Telemetry - F1 22",
+      "url": "/cloud/kj0531",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260515/2026051516284867.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Skibidi Shooter",
+      "url": "/games/skibidi-shooter/index.html",
+      "thumbnail": "/png/games/ski.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Skiing Fred",
+      "url": "/games/skiing/index.html",
+      "thumbnail": "/png/games/skiing.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Skribbl.io",
+      "url": "https://skribbl.io/",
+      "thumbnail": "/png/games/skribblio.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Sky: Children of the Light",
+      "url": "https://web.cloudmoonapp.com/game/com.tgc.sky.android/",
+      "thumbnail": "/png/games/skychildrenofthelight.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Sledders",
+      "url": "/cloud/bs0129",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260918/20260918172415478.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Slender: The 8 Pages, Webport",
+      "altNames": [
+        "Slender: The 8 Pages"
+      ],
+      "url": "/games/slender/index.html",
+      "thumbnail": "/png/games/slender.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Slendytubbies II 2D, Webport",
+      "altNames": [
+        "Slendytubbies II"
+      ],
+      "url": "/games/slendy2d/index.html",
+      "thumbnail": "/png/games/slendy2d.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Slendytubbies II, Webport",
+      "altNames": [
+        "Slendytubbies II"
+      ],
+      "url": "/games/slendy/index.html",
+      "thumbnail": "/png/games/slendy.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Slendytubbies I, Webport",
+      "altNames": [
+        "Slendytubbies I"
+      ],
+      "url": "/gamefile/slendy1.html",
+      "thumbnail": "/png/games/slendy1.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Slient Hill",
+      "url": "/gamefile/slienthill.html",
+      "thumbnail": "/png/games/slienthill.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Slime Ranchers, Webport",
+      "url": "/gamefile/slimeranchers.html",
+      "thumbnail": "png/games/slime.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Slither.io, Webport",
+      "altNames": [
+        "Slither.io"
+      ],
+      "url": "/gamefile/sfge.html",
+      "thumbnail": "png/games/sli.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Slope",
+      "url": "/games/slope/index.html",
+      "thumbnail": "png/games/slope.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Slowroads",
+      "url": "/games/slowroads/index.html",
+      "thumbnail": "/png/games/slow.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "SM64, Super Mario 64",
+      "altNames": [
+        "Super Mario 64",
+        "SM64"
+      ],
+      "url": "/games/sm64/index.html",
+      "thumbnail": "png/games/sm64.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Smash Karts",
+      "url": "/games/smashkarts/index.html",
+      "thumbnail": "png/games/smashkarts.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Snake Clash!",
+      "url": "https://web.cloudmoonapp.com/game/io.supercent.linkedcubic/",
+      "thumbnail": "/png/games/snakeclash.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Sniper：Ghost Warrior Contracts2",
+      "url": "/cloud/kp0133",
+      "thumbnail": "png/games/sniperghostwarriorcontracts2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Snow Battle",
+      "url": "/gamefile/snow.html",
+      "thumbnail": "png/games/snowio.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Snow Rider 3D",
+      "url": "/games/snowrider3D-main/index.html",
+      "thumbnail": "png/games/snow.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Soccer Bros",
+      "url": "/games/soccerbros/index.html",
+      "thumbnail": "png/games/soccer.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Soccer Random",
+      "url": "/games/soccer-random/index.html",
+      "thumbnail": "png/games/soccerra.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Solar Smash",
+      "url": "/gamefile/solar.html",
+      "thumbnail": "/png/games/solar.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Solitaire",
+      "url": "/games/solitaire/index.html",
+      "thumbnail": "/png/games/soli.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Solo Leveling:Arise",
+      "url": "https://web.cloudmoonapp.com/game/com.netmarble.sololv/",
+      "thumbnail": "/png/games/sololevelingarise.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Sonic 1",
+      "url": "/games/sonic/index.html",
+      "thumbnail": "png/games/sonic1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Sonic 2",
+      "url": "/games/sonic2/index.html",
+      "thumbnail": "png/games/sonic2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Sonic 3",
+      "url": "/games/sonic3/sonic3.html",
+      "thumbnail": "png/games/sonic3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Sonic 3D Blast",
+      "url": "/gamefile/sonic3dblast.html",
+      "thumbnail": "png/games/sonic3dblast.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Sonic 4",
+      "url": "/games/sonic4/index.html",
+      "thumbnail": "png/games/sonic4.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Sonic CD",
+      "url": "/games/soniccd/soniccd.html",
+      "thumbnail": "png/games/soniccd.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Sonic EXE",
+      "url": "/gamefile/sonicexe.html",
+      "thumbnail": "png/games/sonicexe.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Sonic Jam",
+      "url": "/gamefile/sonicjam.html",
+      "thumbnail": "png/games/sonicjam.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Sonic Mania, Webport",
+      "url": "/gamefile/sonic.html",
+      "thumbnail": "png/games/mania.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Sonic R",
+      "url": "/gamefile/sonicr.html",
+      "thumbnail": "png/games/sonicr.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Sonic Robo Blast 2",
+      "url": "/games/srb2/index.html",
+      "thumbnail": "/png/games/robo.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Sonic Robo Blast 2 KART",
+      "url": "/games/kart/index.html",
+      "thumbnail": "/png/games/kart.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Sonic World Next",
+      "url": "/games/swn/index.html",
+      "thumbnail": "/png/games/swn.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Soul Knight",
+      "url": "https://web.cloudmoonapp.com/game/com.ChillyRoom.DungeonShooter/",
+      "thumbnail": "/png/games/soulknight.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Soul Knight Prequel",
+      "url": "https://web.cloudmoonapp.com/game/com.chillyroom.soulknightprequel/",
+      "thumbnail": "/png/games/soulknightprequel.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Spaceflight Simulator, Webport",
+      "altNames": [
+        "Spaceflight Simulator"
+      ],
+      "url": "/games/spaceflightsim/index.html",
+      "thumbnail": "png/games/ssim.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Space Waves",
+      "url": "/gamefile/spacewaves.html",
+      "thumbnail": "png/games/space.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Spank the monkey, bogs favorites",
+      "altNames": [
+        "Spank the monkey"
+      ],
+      "url": "/gamefile/monkey.html",
+      "thumbnail": "/png/games/monk.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Speed Stars",
+      "url": "/games/speed-stars/index.html",
+      "thumbnail": "png/games/speed.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Spelunky Classic HD",
+      "url": "/gamefile/spelunky.html",
+      "thumbnail": "png/games/spelunkyclassic.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "SpongeBob SquarePants: Battle for Bikini Bottom",
+      "url": "/cloud/kj0161",
+      "thumbnail": "png/games/spongebobrehydrated.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "SpongeBob SquarePants: The Cosmic Shake",
+      "url": "/cloud/kj0150",
+      "thumbnail": "png/games/spongebobcosmic.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Squad Busters",
+      "url": "https://web.cloudmoonapp.com/game/com.supercell.squad/",
+      "thumbnail": "/png/games/squadbusters.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Starbound, Webport",
+      "url": "/games/Starbound/index.html",
+      "thumbnail": "png/games/starbound.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Stardew Valley, Webport",
+      "url": "/games/stardew/index.html",
+      "thumbnail": "png/games/stardew.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "StarSavior",
+      "url": "https://web.cloudmoonapp.com/game/com.studiobside.starMain/",
+      "thumbnail": "/png/games/starsavior.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Steel And Flesh 2",
+      "url": "https://web.cloudmoonapp.com/game/com.VS.SteelAndFlesh2/",
+      "thumbnail": "/png/games/steelandflesh2.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Stellar Blade",
+      "url": "/cloud/bs0139",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260828/20260828151957738.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Stick Fight: The Game",
+      "url": "/cloud/kj0322",
+      "thumbnail": "png/games/stickfight.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Stickman Hook",
+      "url": "/games/stickman-hook/index.html",
+      "thumbnail": "png/games/stickman.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Stick War: Legacy",
+      "url": "/gamefile/stickwar.html",
+      "thumbnail": "png/games/stickwar.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Stick With It, Webport",
+      "url": "/games/stick/index.html",
+      "thumbnail": "png/games/stick.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Store Manager Simulator 3D",
+      "url": "https://web.cloudmoonapp.com/game/com.dmg.supermarket.simulator/",
+      "thumbnail": "/png/games/storemanagersimulator3d.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Stray",
+      "url": "/cloud/dg0183",
+      "thumbnail": "png/games/stray.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Stumble Guys",
+      "url": "https://nowgg.fun/apps/a/10011/b.html",
+      "thumbnail": "png/games/stumbleguys.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Subnautica Zero",
+      "url": "/cloud/kj0025",
+      "thumbnail": "png/games/subnauticabz.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Subway Surfers",
+      "url": "/games/subway-surfers/index.html",
+      "thumbnail": "png/games/sub.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Subway Surfers City",
+      "url": "https://web.cloudmoonapp.com/game/com.sybogames.subway.surfers.game/",
+      "thumbnail": "/png/games/subwaysurferscity.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Super Bunny Man",
+      "url": "/cloud/kj0171",
+      "thumbnail": "png/games/superbunnyman.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Super Flight, Webport",
+      "url": "/games/superflight/index.html",
+      "thumbnail": "/png/games/superflight.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Super Hot",
+      "url": "/games/superhot/index.html",
+      "thumbnail": "/png/games/superhot.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "SUPERHOT: Mind Control Delete",
+      "url": "/cloud/jy0482",
+      "thumbnail": "png/games/superhotmcd.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Super Mario 64 Coop DX",
+      "altNames": [
+        "Super Mario 64",
+        "SM64COOP"
+      ],
+      "url": "/games/sm64coop/sm64coopdx.html",
+      "thumbnail": "png/games/sm64coop.avif",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Super Mario Bros",
+      "url": "/gamefile/smb.html",
+      "thumbnail": "png/games/smb.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Super Mario Galaxy DS",
+      "url": "/gamefile/smgds.html",
+      "thumbnail": "png/games/smgds.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Supermarket Simulator",
+      "url": "/cloud/kp0203",
+      "thumbnail": "png/games/supermarketsim.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Super Meat Boy",
+      "url": "/games/meatboy/index.html",
+      "thumbnail": "/png/games/meat.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Super Monkey Ball 1 & 2",
+      "url": "/gamefile/monk.html",
+      "thumbnail": "/png/games/monkb.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Super Monkey Ball JR",
+      "url": "/gamefile/supermonkey.html",
+      "thumbnail": "/png/games/supermonkey.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Super Oliver World",
+      "url": "/gamefile/superoliverworld.html",
+      "thumbnail": "png/games/superoliverworld.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Super Smash Bros",
+      "url": "/gamefile/ssm.html",
+      "thumbnail": "png/games/ssm.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Super Smash Flash",
+      "url": "/gamefile/ssf.html",
+      "thumbnail": "/png/games/supersmash.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Super Smash Flash 2",
+      "url": "/gamefile/ssf2.html",
+      "thumbnail": "/png/games/ssf2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Super Sus",
+      "url": "https://web.cloudmoonapp.com/game/com.je.supersus/",
+      "thumbnail": "/png/games/supersus.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Super Tux Kart",
+      "url": "/games/supertuxkart/SuperTuxKart.html",
+      "thumbnail": "png/games/supertuxkart.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Survivor.io, Webport",
+      "url": "/gamefile/survivor.html",
+      "thumbnail": "/png/games/survivorio.webp",
+      "frameType": "iframe",
+      "altNames": [
+        "Survivor.io"
+      ]
+    },
+    {
+      "name": "Sword of Convallaria",
+      "url": "https://web.cloudmoonapp.com/game/com.xd.ssrpgen/",
+      "thumbnail": "/png/games/swordofconvallaria.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "SWORD OF JUSTICE",
+      "url": "https://web.cloudmoonapp.com/game/com.netease.nshmsea/",
+      "thumbnail": "/png/games/swordofjustice.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Taboo Trial",
+      "url": "/cloud/bs0049",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260618/20260618144340798.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Taiko No Tatsujini",
+      "url": "/games/psp/tja/index.html",
+      "thumbnail": "/png/games/taiko.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Tanuki Sunset",
+      "url": "/games/tanukisunset/index.html",
+      "thumbnail": "/png/games/tanukisunset.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Tattle Tail, Webport",
+      "url": "/games/tattletail/index.html",
+      "thumbnail": "/png/games/tat.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Tax Heaven 3000, Webport",
+      "url": "/games/th3000/index.html",
+      "thumbnail": "/png/games/th3000.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "TCG Card Shop",
+      "url": "/cloud/kp0232",
+      "thumbnail": "png/games/tcgcss.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Team Fortress 2, Webport",
+      "url": "/games/tf2/index.html",
+      "thumbnail": "/png/games/tf2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Tears of Themis",
+      "url": "https://web.cloudmoonapp.com/game/com.miHoYo.tot.glb/",
+      "thumbnail": "/png/games/tearsofthemis.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Tekken8",
+      "url": "/cloud/kj0440",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20250402/20250402141624654.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Ten Basket",
+      "url": "/games/ten-basket/index.html",
+      "thumbnail": "/png/games/ten.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Terminator: Resistance",
+      "url": "/cloud/jy0105",
+      "thumbnail": "png/games/terminatorresistance.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Terraria, Webport",
+      "url": "/games/terraria/terraria-wrapper.html",
+      "thumbnail": "/png/games/ter.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "TerraTech Legion",
+      "url": "/cloud/bs0132",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260924/20260924162711757.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Tetris",
+      "url": "/games/tetris/index.html",
+      "thumbnail": "/png/games/tet.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Tetrisweeper",
+      "url": "/games/tetrisweeper/",
+      "thumbnail": "/png/games/tetriss.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "TFT: Teamfight Tactics",
+      "url": "https://web.cloudmoonapp.com/game/com.riotgames.league.teamfighttactics/",
+      "thumbnail": "/png/games/tftteamfighttactics.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Thats Not My Neighbor, Webport",
+      "altNames": [
+        "Thats Not My Neighbor"
+      ],
+      "url": "/gamefile/thatsnot.html",
+      "thumbnail": "/png/games/thatsnot.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "The Amazing Spider-Man",
+      "url": "/cloud/jy0459",
+      "thumbnail": "png/games/theamazingspiderman.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "The Amazing Spider-Man 2",
+      "url": "/cloud/jy0186",
+      "thumbnail": "png/games/theamazingspiderman2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "The Battle Cats",
+      "url": "https://web.cloudmoonapp.com/game/jp.co.ponos.battlecatsen/",
+      "thumbnail": "/png/games/thebattlecats.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "The Binding Of Isaac Wrath Of The Lamb",
+      "url": "/gamefile/tboiw.html",
+      "thumbnail": "/png/games/tboiw.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "The Binding Of Isaac Wrath Of The Lamb: Eternal",
+      "url": "/gamefile/boilambeternal.html",
+      "thumbnail": "/png/games/boilambeternal.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "The Binding Of Issac",
+      "url": "/games/binding-of-isaac/index.html",
+      "thumbnail": "/png/games/tboi.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "The Binding Of Issac: Rebirth, Webport",
+      "altNames": [
+        "The Binding Of Issac: Rebirth"
+      ],
+      "url": "/games/psp/tboir/index.html",
+      "thumbnail": "/png/games/tboir.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "The Binding Of Issac: Repentance, Webport",
+      "altNames": [
+        "The Binding Of Issac: Repentance"
+      ],
+      "url": "/games/boir/index.html",
+      "thumbnail": "/png/games/boir.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "The Callisto Protocol",
+      "url": "/cloud/kj0483",
+      "thumbnail": "png/games/thecallistoprotocol.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "The Division Resurgence",
+      "url": "https://web.cloudmoonapp.com/game/com.ubisoft.the.division.mobile.combat.shooting.open.world.rpg/",
+      "thumbnail": "/png/games/thedivisionresurgence.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "The Eminence in Shadow RPG",
+      "url": "https://web.cloudmoonapp.com/game/com.crunchyroll.eminenceinshadowrpg/",
+      "thumbnail": "/png/games/theeminenceinshadowrpg.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "The First Berserker: Khazan",
+      "url": "/cloud/bs0023",
+      "thumbnail": "png/games/thefirstberserkerkhazan.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "The Impossible Quiz",
+      "url": "/games/theimpossiblequiz/index.html",
+      "thumbnail": "/png/games/quiz.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "The Impossible Quiz 2",
+      "url": "/games/iq2/index.html",
+      "thumbnail": "/png/games/impos2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "THE KING OF FIGHTERS XV",
+      "url": "/cloud/dg0174",
+      "thumbnail": "png/games/thekingoffightersxv.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "The Last of Us™ Part I",
+      "url": "/cloud/dg0315",
+      "thumbnail": "png/games/lastofus.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "The Last of Us™ Part II ",
+      "url": "/cloud/kj0630",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260408/20260408171835296.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "The Legend of Neverland",
+      "url": "https://web.cloudmoonapp.com/game/com.gameark.ggplay.lonsea/",
+      "thumbnail": "/png/games/thelegendofneverland.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "url": "/cloud/jy0408",
+      "thumbnail": "png/games/tlozbotw.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "The Legend of Zelda Ocarina of Time",
+      "url": "/gamefile/tloz.html",
+      "thumbnail": "/png/games/tloz.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "The Long Drive",
+      "url": "/cloud/kj0202",
+      "thumbnail": "png/games/thelongdrive.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "The Past Room",
+      "url": "/cloud/jy0324",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20210423/20210423111748763.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "There Is No Game",
+      "url": "/games/there-is-no-game/index.html",
+      "thumbnail": "/png/games/ting.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "The Seven Deadly Sins",
+      "url": "https://web.cloudmoonapp.com/game/com.netmarble.nanagb/",
+      "thumbnail": "/png/games/thesevendeadlysins.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "The Seven Deadly Sins: Origin",
+      "url": "https://web.cloudmoonapp.com/game/com.netmarble.nanaori/",
+      "thumbnail": "/png/games/thesevendeadlysinsorigin.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "The Sims Mobile",
+      "url": "https://nowgg.fun/apps/electronic-arts/2155/the-sims-mobile.html",
+      "thumbnail": "/png/games/simsmobile.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "The Spirit of the Samurai",
+      "url": "/cloud/bs0051",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260618/20260618144252587.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Thriving City: Song",
+      "url": "/cloud/bs0080",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260821/20260821160745686.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Time Shooter 1",
+      "url": "/gamefile/time1.html",
+      "thumbnail": "/png/games/tim1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Time Shooter 2",
+      "url": "/games/timeshooter2/index.html",
+      "thumbnail": "/png/games/tim2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Time Shooter 3",
+      "url": "/games/timeshoot3/index.html",
+      "thumbnail": "/png/games/tim3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Tiny Fishing",
+      "url": "/games/tiny-fishing/index.html",
+      "thumbnail": "png/games/tiny.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Titanfall 2",
+      "url": "/cloud/jy0185",
+      "thumbnail": "png/games/titanfall2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Toca Boca World",
+      "url": "https://web.cloudmoonapp.com/game/com.tocaboca.tocalifeworld/",
+      "thumbnail": "/png/games/tocabocaworld.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Tokyo 2020 Olympics",
+      "url": "/cloud/dg0017",
+      "thumbnail": "png/games/tokyo2020olympics.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Tomb Of The Mask",
+      "url": "/games/tombofthemask/index.html",
+      "thumbnail": "/png/games/tomb.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Tomb Raider - Definitive Edition",
+      "url": "/cloud/bs0048",
+      "thumbnail": "png/games/torade.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Tom Clancy's Ghost Recon® Wildlands",
+      "url": "/cloud/jy0214",
+      "thumbnail": "png/games/tomclancysghostreconwildlands.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Tomodachi Collection",
+      "url": "/gamefile/tomo.html",
+      "thumbnail": "/png/games/tomo.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Toss The Turtle",
+      "url": "/games/tosstheturtle/index.html",
+      "thumbnail": "/png/games/ttt.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Totally Acturate Battle Simulator, Webport",
+      "url": "/games/tabs/index.html",
+      "thumbnail": "/png/games/tabs.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "To The Core, Webport",
+      "altNames": [
+        "To The Core"
+      ],
+      "url": "/games/tothecore/index.html",
+      "thumbnail": "/png/games/to.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Touhou 1 Touhou-Reiiden",
+      "url": "/gamefile/touhou.html",
+      "thumbnail": "/png/games/touhou1.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Touhou 2 Touhou-Fuumaroku",
+      "url": "/gamefile/touhou2.html",
+      "thumbnail": "/png/games/touhou2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Touhou 3 Touhou-Yumejikuu",
+      "url": "/gamefile/touhou3.html",
+      "thumbnail": "/png/games/touhou3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Touhou 4 Touhou-Gensokyou",
+      "url": "/gamefile/touhou4.html",
+      "thumbnail": "/png/games/touhou4.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Touhou 5 Touhou-Kaikidan",
+      "url": "/gamefile/touhou5.html",
+      "thumbnail": "/png/games/touhou5.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Touhou Mother, Webport",
+      "altNames": [
+        "Touhou Mother"
+      ],
+      "url": "/games/touhoumother/index.html",
+      "thumbnail": "/png/games/touhou.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Tower of Fantasy",
+      "url": "https://web.cloudmoonapp.com/game/com.levelinfinite.hotta.gp/",
+      "thumbnail": "/png/games/toweroffantasy.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Transformers: Battlegrounds",
+      "url": "/cloud/bs0069",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260731/20260731172523208.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Transformers: Devastation",
+      "url": "/cloud/jy0435",
+      "thumbnail": "png/games/transformersdevastation.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Transformers: Rise of the Dark Spark",
+      "url": "/cloud/jy0018",
+      "thumbnail": "png/games/transformersriseofthedarkspark.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Tree Hates You, Webport",
+      "url": "/games/treehatesyou/index.html",
+      "thumbnail": "/png/games/treehatesyou.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Trickcal:Chibi Go",
+      "url": "https://web.cloudmoonapp.com/game/com.bilibili.trickcal/",
+      "thumbnail": "/png/games/trickcalchibigo.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Trombone Champ, Webport",
+      "url": "/games/tchamp/index.html",
+      "thumbnail": "/png/games/tchamp.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Tube Jumpers",
+      "url": "/gamefile/tube.html",
+      "thumbnail": "/png/games/tube.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Tung Tung Basics, Webport",
+      "url": "/games/tungtungbog/index.html",
+      "thumbnail": "/png/games/tungtungbasics.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Tung Tung Horror",
+      "url": "/gamefile/tung.html",
+      "thumbnail": "/png/games/tung.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "UBOAT",
+      "url": "/cloud/bs0086",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260814/20260814134028682.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Ultrakill, Webport",
+      "altNames": [
+        "Ultrakill"
+      ],
+      "url": "/games/thkill/index.html",
+      "thumbnail": "png/games/ultra.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Ultrapool, Webport",
+      "altNames": [
+        "Ultrapool"
+      ],
+      "url": "/gamefile/ultrapool.html",
+      "thumbnail": "png/games/ultrapool.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Umamusume: Pretty Derby",
+      "url": "https://web.cloudmoonapp.com/game/com.cygames.umamusume/",
+      "thumbnail": "/png/games/umamusumeprettyderby.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Um Jammer Lammy",
+      "url": "/gamefile/jemmer.html",
+      "thumbnail": "/png/games/jammer.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Uncharted 4",
+      "url": "/cloud/dg0248",
+      "thumbnail": "png/games/uncharted4.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Undertale 10th Anniversary, Webport",
+      "altNames": [
+        "Undertale 10th Anniversary"
+      ],
+      "url": "/games/10th/index.html",
+      "thumbnail": "png/games/undertale10.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Undertale Last Breath",
+      "url": "/gamefile/udlb.html",
+      "thumbnail": "png/games/udlb.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Undertale, Webport",
+      "altNames": [
+        "Undertale"
+      ],
+      "url": "/gamefile/undertale.html",
+      "thumbnail": "png/games/uertale.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Undertale Yellow, Webport",
+      "altNames": [
+        "Undertale Yellow"
+      ],
+      "url": "/games/uty/play.html",
+      "thumbnail": "/png/games/udy.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Untitled Goose Game, Webport",
+      "altNames": [
+        "Untitled Goose Game"
+      ],
+      "url": "/games/UntitledGooseGameBog/index.html",
+      "thumbnail": "/png/games/untitled.webp",
+      "frameType": "unityframe"
+    },
+    {
+      "name": "Urban Jungle",
+      "url": "/cloud/bs0079",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260825/20260825152856764.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Vampire Survivors, Webport",
+      "altNames": [
+        "Vampire Survivors"
+      ],
+      "url": "/games/vampire/index.html",
+      "thumbnail": "/png/games/vampire.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Venge.io",
+      "url": "https://iogamesio.org/vengeio.embed",
+      "thumbnail": "/png/games/vengoio.webp",
+      "frameType": "proxy",
+      "category": "proxied"
+    },
+    {
+      "name": "Vex",
+      "url": "/games/vex/index.html",
+      "thumbnail": "/png/games/vex.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Vex 2",
+      "url": "/gamefile/vex2.html",
+      "thumbnail": "/png/games/vex2.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Vex 3",
+      "url": "/games/vex3/index.html",
+      "thumbnail": "/png/games/vex3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Vex 4",
+      "url": "/games/vex4/index.html",
+      "thumbnail": "/png/games/vex4.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Vex 5",
+      "url": "/games/vex5/index.html",
+      "thumbnail": "/png/games/vex5.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Vex 6",
+      "url": "/gamefile/vex6.html",
+      "thumbnail": "/png/games/vex6.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Vex 7",
+      "url": "/gamefile/vex7.html",
+      "thumbnail": "/png/games/vex7.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Vex 8",
+      "url": "/gamefile/vex8.html",
+      "thumbnail": "/png/games/vex8.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Vib-Ribbon, Webport",
+      "altNames": [
+        "Vib-Ribbon"
+      ],
+      "url": "/gamefile/vib.html",
+      "thumbnail": "/png/games/vib.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Volley Random",
+      "url": "/games/volley-random/index.html",
+      "thumbnail": "/games/volley-random/splash.png",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Wallkickers, Webport",
+      "altNames": [
+        "Wallkickers"
+      ],
+      "url": "/games/wallkickers/index.html",
+      "thumbnail": "png/games/wallkickers.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Warframe",
+      "url": "https://web.cloudmoonapp.com/game/com.digitalextremes.warframemobile/",
+      "thumbnail": "/png/games/warframe.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Warhammer 40,000: Mechanicus II",
+      "url": "/cloud/bs0135",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260924/20260924164435187.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Warioware D.I.Y",
+      "url": "/gamefile/wariowarediy.html",
+      "thumbnail": "png/games/wariowarediy.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "War Robots Multiplayer Battles",
+      "url": "https://web.cloudmoonapp.com/game/com.pixonic.wwr/",
+      "thumbnail": "/png/games/warrobotsmultiplayerbattles.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "War Thunder Mobile",
+      "url": "https://web.cloudmoonapp.com/game/com.gaijingames.wtm/",
+      "thumbnail": "/png/games/warthundermobile.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Watch Dogs 2",
+      "url": "/cloud/jy0147",
+      "thumbnail": "png/games/watchdogs2.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Watch Dogs: Legion",
+      "url": "/cloud/dg0159",
+      "thumbnail": "png/games/watchdogslegion.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Webdashers",
+      "url": "/gamefile/gd.html",
+      "thumbnail": "/png/games/webdashers.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "We Become What We behold",
+      "url": "/gamefile/wbwwb.html",
+      "thumbnail": "png/games/wbwwb.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Webfishing, Webport",
+      "altNames": [
+        "Webfishing"
+      ],
+      "url": "/games/webfishing/",
+      "thumbnail": "/png/games/web.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "What Remains of Edith Finch",
+      "url": "/cloud/jy0157",
+      "thumbnail": "png/games/whatremainsofedithfinch.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Where Winds Meet",
+      "url": "https://web.cloudmoonapp.com/game/com.netease.yysls/",
+      "thumbnail": "/png/games/wherewindsmeet.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Who's Your Daddy, Webport",
+      "altNames": [
+        "Who's Your Daddy"
+      ],
+      "url": "/games/whoseyourdaddy/index.html",
+      "thumbnail": "png/games/daddy.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Wicked Seed",
+      "url": "/cloud/bs0050",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260618/20260618144315606.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Windowkill, Webport",
+      "altNames": [
+        "Windowkill"
+      ],
+      "url": "/games/windowkill/",
+      "thumbnail": "/png/games/windowkill.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Witchers 3",
+      "url": "/cloud/jy0091",
+      "thumbnail": "png/games/thewitcher3.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Witch's Heart, Webport",
+      "altNames": [
+        "Witch's Heart"
+      ],
+      "url": "/gamefile/witches.html",
+      "thumbnail": "png/games/witches.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Wizard of Legend",
+      "url": "/cloud/jy0122",
+      "thumbnail": "png/games/wizardoflegend.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Wobbly Life",
+      "url": "/cloud/kj0238",
+      "thumbnail": "png/games/wobblylife.webp",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Wolf Mate",
+      "url": "/cloud/bs0036",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20250829/20250829115558198.png",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Woody's Incredible Journey To The Escape From Eternal Terror",
+      "url": "/games/WIJ/index.html",
+      "thumbnail": "/png/games/WIJ.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Wordle",
+      "url": "/games/wordle-unlimited/index.html",
+      "thumbnail": "/png/games/world.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "WorldBox - Sandbox God Sim",
+      "url": "/games/worldbox/index.html",
+      "thumbnail": "/png/games/worldboxsandboxgodsim.webp",
+      "frameType": "iframe",
+      "category": "game",
+      "altNames": [
+        "Worldbox, Webport"
+      ]
+    },
+    {
+      "name": "World of Tanks Blitz™",
+      "url": "https://web.cloudmoonapp.com/game/net.wargaming.wot.blitz/",
+      "thumbnail": "/png/games/worldoftanksblitztm.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Worlds Hardest Game",
+      "url": "/gamefile/twhg.html",
+      "thumbnail": "png/games/wrdd.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Worlds Hardest Game 2",
+      "url": "/games/worlds-hardest-game-2/index.html",
+      "thumbnail": "/games/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Worlds Hardest Game 3",
+      "url": "/games/worlds-hardest-game-3/index.html",
+      "thumbnail": "/png/games/3.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Worlds Hardest Game 4",
+      "url": "/games/worlds-hardest-game-4/index.html",
+      "thumbnail": "/png/games/whg4.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "World War Z - Aftermath",
+      "url": "/cloud/bs0062",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260724/20260724172550548.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Wuthering Waves",
+      "url": "https://web.cloudmoonapp.com/game/com.kurogame.wutheringwaves.global/",
+      "thumbnail": "/png/games/wutheringwaves.webp",
+      "category": "proxied",
+      "frameType": "proxy",
+      "altNames": [
+        "Wuthering Waves - To Xuanfang"
+      ]
+    },
+    {
+      "name": "WWE 2K24",
+      "url": "/cloud/kj0458",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20250331/20250331173717794.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "WWE 2K25",
+      "url": "/cloud/kj0599",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20260407/20260407163551925.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "X-Plane 11",
+      "url": "/cloud/kj0495",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20250902/2025090217335483.jpg",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Yandere Simulator, Webport",
+      "url": "/gamefile/yandere.html",
+      "thumbnail": "/png/games/yandere.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Yoked",
+      "url": "/gamefile/yoked.html",
+      "thumbnail": "/png/games/yoked.webp",
+      "frameType": "unity"
+    },
+    {
+      "name": "Your Only Move Is HUSTLE, YOMI Hustle, Webport",
+      "url": "/games/YOMIHustle/index.html",
+      "thumbnail": "/png/games/YOMI.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Yu-Gi-Oh! Master Duel",
+      "url": "https://web.cloudmoonapp.com/game/jp.konami.masterduel/",
+      "thumbnail": "/png/games/yugiohmasterduel.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "Yume Nikki, Webport",
+      "url": "/gamefile/yume.html",
+      "thumbnail": "/png/games/yumi.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Zenless Zone Zero",
+      "url": "https://web.cloudmoonapp.com/game/com.HoYoverse.Nap/",
+      "thumbnail": "/png/games/zenlesszonezero.webp",
+      "category": "proxied",
+      "frameType": "proxy",
+      "altNames": [
+        "Zenless Zone Zero - Anniv."
+      ]
+    },
+    {
+      "name": "Zombs Royale",
+      "url": "https://zombsroyale.io/",
+      "thumbnail": "/png/games/zombs.webp",
+      "frameType": "proxy",
+      "category": "proxied",
+      "altNames": [
+        "ZombsRoyale.io - Battle Royale"
+      ]
+    },
+    {
+      "name": "Zoonomaly",
+      "url": "/cloud/kp0208",
+      "thumbnail": "https://download-oss.raccoongame.com/uploads/image/20240527/20240527163117749.png",
+      "frameType": "iframe",
+      "category": "cloud"
+    },
+    {
+      "name": "Zuma",
+      "url": "/games/zuma/index.html",
+      "thumbnail": "/png/games/zuma.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "ブルーアーカイブ",
+      "url": "https://web.cloudmoonapp.com/game/com.YostarJP.BlueArchive/",
+      "thumbnail": "/png/games/フルーアーカイフ.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    },
+    {
+      "name": "学園アイドルマスター",
+      "url": "https://web.cloudmoonapp.com/game/com.bandainamcoent.idolmaster_gakuen/",
+      "thumbnail": "/png/games/学園アイトルマスター.webp",
+      "category": "proxied",
+      "frameType": "proxy"
+    }
+  ]
+}

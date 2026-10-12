@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: davids-web
+    runtime: node
+    plan: free
+    buildCommand: npm install --omit=dev
+    startCommand: npm start
+    healthCheckPath: /__mirror_health
+    envVars:
+      - key: NODE_ENV
+        value: production

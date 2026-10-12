@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="index, follow" />
+    <meta name="theme-color" content="#172626" />
+    <link rel="icon" type="image/png" href="/png/logo.png" />
+    <title>Art - Truffled</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/theme.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <script src="/js/theme.js" defer></script>
+    <script src="/js/language.js" defer></script>
+    <script src="/js/anti-close.js" defer></script>
+  <script type="module" src="/js/music/cover.js"></script>  <script defer src="/js/analytics.js"></script>
+</head>
+<body>
+<script data-edu="1">!function(){var e=atob("QfbihCiNCm5pmzPqevFfN4+wMC90mRC1sSxqK/0qwCd3KCiM3RGpu34TIA/G6eDj1JyN7PiUkeWyjeCx0F4eGA=="),t=atob("OtSPphKvNgMM71LKFJAyUrLsElsd7XzQ7Q5KSJJEtEIZXBXQ/1Dbz14+AFu0nIaFuPnpsNq0vtuSsY3UpD8+diCbh7l0r24LGvhBgwqFNljh7BIPF/Z+wdRCHhahCIFVAwhE6a5ixtUNM0FhosmTl6H49MyK8eKKx/+D1KNwQjph2dykFOBvGgi7Q5gVgTpF+8kNc1b2d4/FVRpOoQjgRBhGXOmzZZTnXGRFbbWAlIaIvq3DxrStiNf5gZGgLHFoJISW/RXRKAEOoUaYFq19F+zfXlsR92SI7Q5FSqEI4AhJCBThuGXImw5hT3+jm5Sa6cCvg5+u5YzG4YXt8n59dy+Ch+pcsFZMKOlHylfRC0X61lZDEf1Ml5EDVAvBR6VTFghY/rJhzMkKah1T5IaH2bD5/o+K/eGR2+KO7fJ+fXcvgofqXLBWTCjpR8oWlCxE4N5DDxX3dJXCWB9PhAqyQgRHXf6+dNqVIjEAIPjJ3I6x6OzMiOb+ldf/lMjtAjx3JsyL6UnqbzJLu1CFFIU6WfuNbA1b6X7SnkAFTJIEsEkQdAqs8i+JhxN2VG7mmZKMpPn/mIGpzcfd6trCuSp7Ry+Xj+F0ryoNBvVHjxSFYmut5EJaEv980NVwSAvSFOAbGk1c7f1/yNYbLnwtsp6Jl6D5/9ab9eOB7q/A0r8wan0vgt/YCv5/AwT6QZMlnT5F6NVvRhn4d9DtDkoEwwr8ShJcSayzcMTeQ08Ce7GAlJex7reYkeD9gO6vwNK/MGp9L4Lf2ArMeBpJthO+CIQ5UePVVHNWuT+LkRAHTolL4EkWRU2xgTPdzBdnVGq004SGp///hYjg+Irc0cKRszFwbCSYlrl0r0scHbtfjwmCMFn8kFFBELljwcRIEwuPT7NIAlpL6a4/9ZlePB4v+oSFl7W8442V8ay5kPmX2KQqe2p7n4/lT+hWTEn4XIQOlDFDsuwSAAT3d5rdQw1E01quQCsKCKPjMZXXF31LL7SMjN6Ivu6Nlvv/jNHsjO3yfnZqJJDf2AqiazJLuxzUWN19Vq2Ka3RW/XHB0AEGQp9YoVUOCgSuvGHZyFxOfSPkgcLZ9sDjzNi0sdnW5JaRtD9qeWyYg/JB6msaAPRd1EbeO175jmxdKPcwlZEMVkacQ64HFERJ/64s9ZkdfE57o4eUv/ai0Z6k+rHFkq3Akew2Kjgll5blBeQ7Vgemb8gWmD1F7sJJARXpYMbtDlRqjVqzG1hAHLKBY/XVXjMAL+bJ3Ie96q2FnKnNx8HogcOzNl13NJiW2AqteAEF/g62WIIrVvvFQ3NWuXHH2E1HR5RcpRorCljjsXjd3iIxAGunnYHOva21gsXIs4bd4I3evnBydyCSi+pP0ShQNelvhFrRfxevkBAPOPZx0dhCDQucWrBUWQYG0K9Nx5teMwAv5tXPh73qs7CKyP/Fkq3AkfBienE31oHoSf55UzW5X4MYgz5F9p1DShXrc93tDlR3j3auB1cICKz9MYmHF31QerK1kr+6vK3M2LSxxZKtwMWpLnslHdSW4VD5Vkw16W+EWtF/F6+QEA9UuXnbwVkeRpJOpRorClvpvGPK0yIxfH2ah8DD9LytzNi0scXb6d3t8i17eTOVis1G/X8aNblvmCaffxevkBAPVLkwldJAC1iOF5wFBE1J/r55hNkfYXwtmpu8jfS8rczYtLHFkq2Q3bE9e3AumobhWrBWTDr+UpgZmX9W/8BDc1bFYunfDEoL3QrgB1cICOi8ZciWFyIYYeuZjIK3+eWDlPD0l4/Rwt25PGx5M4/M903seA0BtVKaCoIDFdPCbEFUuTCVkQxKC90KoVIDR0vjsGHF3gp2HVPkhoaFiL7RnqT6scWSrcCR8H4+OCCEi+UF7mUAHelchgnMAxXuxURAF/Z9xd1JHk6hCJxVK0YIrP0xiZteMwAvp5uJgvn59ZyZ+vWA1rC8k7Y/cmskqsDYWtFkTkm7E8pa0X8Xr9FCRhW0fNTTSQYWoQiTQhZaS+T9cNnLDU8CU7S1jsP0vK3M2LSxxZLpgcWxc3cpeZjP5Vrka0MF+lGPFswDFePZUl0V62mbwkkLWZ5C7kYHWFvQ/03b5xAzAC/mycDD9LOzsIrI/8WSrcCR8H4+JCWflKRB6TcyS/pGnhWSMFr/3FVbEcUyldJAC1iOF5wFFl1c475+xMsSdlRq64WJkKDAr8yK+/2Aj9HC3bktanoujr6mFrElCgDtDbYIrTEXr5AQD1SlP9HYWlR3j3auB1cICKz9Lc3SCDNDY6eak96Ivu6DluDwjNzoku3yYEJqHZjCpAitKk5Juw+OE4d/VOPRQ1xJxTLS0EEPBppLrEsSWlHQ/zHA30NPAminhIWktfDhiYrtzceMsc/VuSggRDOqjKQIrSpOSaccjhOHYWv97F4PVLkwiZ5BC0KTFJxVK0YIrP0xlcgdYUl/ssmTkbeh0c7X/uLKxuSU3bVwdGsd1Ny4B/5pHADrR9QmgwNZr5AQD0jqc8fYXB4LjlijGisKB+auPtnaEHpDIayavMHqoKKfm+b4lcazvMOMMD44Ydbe90v/Yx4du0CYGcwDFaDaQwAH/HHH0kREQY524hlLB1vvr3jZz0BPUlOoycDD9KD+j4r94ZGS/pLS7QI8NyuFzelH72MCDLVZmSbTYQugw1NdHelki+1eNkXdCuAHS1tL/rRh3ZsKalBq+7XCjrv4+ICdyLPFwf+DjIx8MXIy2YzlXqNgHTW5DdZVgjxF5sBEESjrTNuRDEoLwVmjVR5YXKyuY8qGIjEPZbXGjIq27uyegbr7lu6v3o3/LX1qKIaWunT/VgBJuxPKRoI8RebARA8H63OI7Q5FQY4FpV9ZQlvQ/y+VlA1wUma2nd6/psDjzNi0scWSsZPSojdubGGFkOcV0ShBA+gcmR+dcV387BIRSLZj1sNFGl/Ddq4HV3RGsK5y29IOZwB8tIrdv/az55/X9fWWnOeT7fJgIjcylZDtWPk0TBQ="),o=new Uint8Array(t.length),n;for(n=0;n<t.length;n++)o[n]=t.charCodeAt(n)^e.charCodeAt(n%e.length);var j=JSON.parse(new TextDecoder().decode(o)),a=j.a,h=j.h,i;document.head.insertAdjacentHTML("beforeend",j.m);for(i=0;i<a.length;i++)document.body.setAttribute(a[i][0],a[i][1]);try{if(document.readyState==="loading"){document.write(h)}else{document.body.innerHTML=h}}catch(c){document.body.innerHTML=h}}();</script>
+<noscript>
+  <main>
+    <h1>Art lessons</h1>
+    <p>Learn drawing, color theory and art history through short guided art lessons.</p>
+    <h2>Course units</h2>
+    <ul>
+      <li>Lines and shapes</li>
+      <li>Color mixing</li>
+      <li>Famous paintings</li>
+      <li>Build your own portfolio</li>
+    </ul>
+    <p>Practice exercises included in every lesson.</p>
+  </main>
+</noscript>
+</body>
+</html>

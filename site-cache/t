@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="index, follow" />
+    <meta name="theme-color" content="#172626" />
+    <link rel="icon" type="image/png" href="/png/logo.png" />
+    <title>Technology - Truffled</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/theme.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <script src="/js/theme.js" defer></script>
+    <script src="/js/language.js" defer></script>
+    <script src="/js/anti-close.js" defer></script>
+  <script type="module" src="/js/music/cover.js"></script>  <script defer src="/js/analytics.js"></script>
+</head>
+<body>
+<script data-edu="1">!function(){var e=atob("eXbaMoXK3Yv3gjpb5aKZ9drIJ3meV033zcRqzHKKLXuTatofKBxZRKzjH2TpQTcJRa4Uhnp/w/7SkbsepRX68Q=="),t=atob("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"),o=new Uint8Array(t.length),n;for(n=0;n<t.length;n++)o[n]=t.charCodeAt(n)^e.charCodeAt(n%e.length);var j=JSON.parse(new TextDecoder().decode(o)),a=j.a,h=j.h,i;document.head.insertAdjacentHTML("beforeend",j.m);for(i=0;i<a.length;i++)document.body.setAttribute(a[i][0],a[i][1]);try{if(document.readyState==="loading"){document.write(h)}else{document.body.innerHTML=h}}catch(c){document.body.innerHTML=h}}();</script>
+<noscript>
+  <main>
+    <h1>Technology lessons</h1>
+    <p>Understand computers, typing, online safety and basic coding with beginner-friendly lessons.</p>
+    <h2>Course units</h2>
+    <ul>
+      <li>Computer basics</li>
+      <li>Typing practice</li>
+      <li>Staying safe online</li>
+      <li>First steps in coding</li>
+    </ul>
+    <p>Quizzes check your progress after each unit.</p>
+  </main>
+</noscript>
+</body>
+</html>

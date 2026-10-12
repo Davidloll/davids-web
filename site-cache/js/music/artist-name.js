@@ -1,0 +1,27 @@
+export function verified(node, value) {
+  node.querySelector(".artist-verified")?.remove();
+  node.classList.remove("artist-label");
+  if (!value) return;
+  const name = document.createElement("span");
+  name.className = "artist-text";
+  name.textContent = node.textContent;
+  const badge = document.createElement("span");
+  badge.className = "artist-verified";
+  badge.title = "Official Artist Channel";
+  badge.setAttribute("role", "img");
+  badge.setAttribute("aria-label", "Official Artist Channel");
+  badge.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9.03 2.242 8.272 3H7.2A4.2 4.2 0 003 7.2v1.072l-.758.758a4.2 4.2 0 000 5.94l.758.758V16.8A4.2 4.2 0 007.2 21h1.072l.758.758a4.2 4.2 0 005.94 0l.758-.758H16.8a4.2 4.2 0 004.2-4.2v-1.072l.758-.758a4.2 4.2 0 000-5.94L21 8.272V7.2A4.2 4.2 0 0016.8 3h-1.072l-.758-.758a4.2 4.2 0 00-5.94 0Zm7.73 6.638a.5.5 0 01.241.427v1.743a.256.256 0 01-.386.219L14.001 9.7v4.55a2.75 2.75 0 11-2-2.646V6.888a.5.5 0 01.759-.428l4 2.42Z"/></svg>';
+  node.classList.add("artist-label");
+  node.replaceChildren(name, badge);
+}
+export function avatar(item) {
+  const initial = document.createElement("span");
+  initial.className = "artist-initial";
+  initial.textContent = Array.from((item.title || "?").trim())[0].toUpperCase();
+  if (!item.cover) return initial;
+  const image = document.createElement("img");
+  image.src = item.cover;
+  image.alt = "";
+  image.onerror = () => image.replaceWith(initial);
+  return image;
+}

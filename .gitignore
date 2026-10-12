@@ -1,0 +1,15 @@
+# Secrets and local artifacts
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+.DS_Store
+.cache/
+.local/
+.npm/
+__pycache__/
+# The reference sheet is user-supplied; only the extracted cursor files are published.
+uploads/
+# Generated runtime responses are cached here after deployment.
+site-cache/.runtime/

@@ -1,0 +1,196 @@
+{
+  "games": [
+    {
+      "name": "Youtube",
+      "scramjetUrl": "youtube.com",
+      "thumbnail": "png/apps/youtube.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Facebook",
+      "scramjetUrl": "https://www.facebook.com/",
+      "thumbnail": "/png/apps/facebook.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "WhatsApp",
+      "scramjetUrl": "https://www.whatsapp.com/",
+      "thumbnail": "/png/apps/whatsapp.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Twitter",
+      "scramjetUrl": "https://x.com/",
+      "thumbnail": "/png/apps/twitter.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Wikipedia",
+      "scramjetUrl": "https://www.wikipedia.org/",
+      "thumbnail": "/png/apps/wikipedi.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Tiktok",
+      "scramjetUrl": "https://www.tiktok.com/",
+      "thumbnail": "png/apps/tiktok.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Amazon",
+      "scramjetUrl": "https://www.amazon.com/",
+      "thumbnail": "png/apps/amazon.webp",  
+      "frameType": "iframe"
+    },
+    {
+      "name": "Netflix",
+      "scramjetUrl": "https://www.netflix.com/",
+      "thumbnail": "/png/apps/netflix.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Telegram",
+      "scramjetUrl": "https://web.telegram.org/",
+      "thumbnail": "/png/apps/telegram.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Pinterest",
+      "scramjetUrl": "https://www.pinterest.com/",
+      "thumbnail": "png/apps/pinterest.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Spotify",
+      "scramjetUrl": "https://open.spotify.com/",
+      "thumbnail": "/png/apps/spotify.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Twitch",
+      "scramjetUrl": "https://www.twitch.tv/",
+      "thumbnail": "/png/apps/twitch.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "ebay",
+      "scramjetUrl": "https://www.ebay.com/",
+      "thumbnail": "/png/apps/ebay.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Disney Plus",
+      "scramjetUrl": "https://www.disneyplus.com/",
+      "thumbnail": "/png/apps/disney.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Hulu",
+      "scramjetUrl": "https://www.hulu.com/",
+      "thumbnail": "/png/apps/hulu.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Apple Music",
+      "scramjetUrl": "https://music.apple.com/us/new",
+      "thumbnail": "/png/apps/applemusic.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Crunchyroll",
+      "scramjetUrl": "https://www.crunchyroll.com/",
+      "thumbnail": "/png/apps/crunchyroll.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "SoundCloud",
+      "scramjetUrl": "https://soundcloud.com/",
+      "thumbnail": "/png/apps/sc.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Paramount Plus",
+      "scramjetUrl": "https://www.paramountplus.com/",
+      "thumbnail": "/png/apps/paramount.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "ESPN",
+      "scramjetUrl": "https://www.espn.com/",
+      "thumbnail": "/png/apps/espn.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Peacock",
+      "scramjetUrl": "https://www.peacocktv.com/",
+      "thumbnail": "/png/apps/peacock.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "VS Code",
+      "scramjetUrl": "https://vscode.dev/",
+      "thumbnail": "/png/apps/vscode.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Fandom",
+      "scramjetUrl": "https://www.fandom.com/",
+      "thumbnail": "/png/apps/fandom.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "1Flex",
+      "scramjetUrl": "https://1flex.org/",
+      "thumbnail": "/png/apps/1flex.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Crazy Games",
+      "scramjetUrl": "https://www.crazygames.com/",
+      "thumbnail": "/png/apps/crazygames.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Webtoon",
+      "scramjetUrl": "https://www.webtoon.com/",
+      "thumbnail": "/png/apps/webtoon.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Geforce Now",
+      "scramjetUrl": "https://play.geforcenow.com/mall/",
+      "thumbnail": "/png/apps/gefore.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Gauth",
+      "scramjetUrl": "https://www.gauthmath.com/",
+      "thumbnail": "png/apps/guath.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "FMHY",
+      "scramjetUrl": "https://www.fmhy.net/",
+      "thumbnail": "/png/apps/fmhy.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Bandlab",
+      "scramjetUrl": "https://www.bandlab.com/",
+      "thumbnail": "/png/apps/bandlab.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Gofile",
+      "scramjetUrl": "https://gofile.io/",
+      "thumbnail": "/png/apps/gofile.webp",
+      "frameType": "iframe"
+    },
+    {
+      "name": "Homestuck",
+      "scramjetUrl": "https://www.homestuck.com/",
+      "thumbnail": "/png/apps/homestick.webp",
+      "frameType": "iframe"
+    }
+  ]
+}

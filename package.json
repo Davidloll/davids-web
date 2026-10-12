@@ -1,0 +1,10 @@
+{
+  "name": "thetuber79-mirror",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {"node": ">=20"},
+  "description": "Locally cached mirror of the public Truffled website",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
