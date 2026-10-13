@@ -6,6 +6,7 @@ const path = require('node:path');
 const crypto = require('node:crypto');
 const tls = require('node:tls');
 const {Readable} = require('node:stream');
+const {once} = require('node:events');
 
 const PORT = Number(process.env.PORT || 3000);
 const ORIGIN = 'https://truffled.lol';
@@ -24,6 +25,15 @@ function send(res, status, headers, body, pathname = '') {
   // Turn ads off before any of the original page scripts run. Keep the hidden
   // settings controls in the DOM because the original settings script uses them.
   const contentType = headers['content-type'] || '';
+  // The original site sends cross-origin isolation headers. Dropping them made
+  // SharedArrayBuffer-based games and tools fail even in a direct HTTPS tab.
+  if (pathname && !pathname.startsWith('/api/')) {
+    headers['cross-origin-resource-policy'] ??= 'cross-origin';
+    if (contentType.includes('text/html')) {
+      headers['cross-origin-opener-policy'] ??= 'same-origin';
+      headers['cross-origin-embedder-policy'] ??= 'credentialless';
+    }
+  }
   if (contentType.includes('text/html') && !/^\/(studying|games|gamefile|api)\//.test(pathname)) {
     const injection = '<script>try{localStorage.setItem("adsEnabled","false")}catch(e){}</script>' +
       '<style>#adsettings{display:none!important}</style>' +
@@ -40,7 +50,7 @@ function send(res, status, headers, body, pathname = '') {
 }
 function safeHeaders(headers) {
   const forwarded = {};
-  for (const key of ['content-type', 'cache-control', 'last-modified', 'etag', 'accept-ranges', 'content-range']) {
+  for (const key of ['content-type', 'cache-control', 'last-modified', 'etag', 'accept-ranges', 'content-range', 'cross-origin-opener-policy', 'cross-origin-embedder-policy', 'cross-origin-resource-policy']) {
     const value = headers.get(key);
     if (value) forwarded[key] = value;
   }
@@ -67,9 +77,13 @@ const server = http.createServer(async (req, res) => {
     return send(res, 200, {'content-type':'application/javascript; charset=utf-8'}, '// Ads removed from this mirror.\n');
   }
   const cacheable = req.method === 'GET' && !url.pathname.startsWith('/api/') && !url.pathname.startsWith('/wisp/');
-  if (cacheable && fs.existsSync(files.body) && fs.existsSync(files.meta)) {
+  if (cacheable && !req.headers.range && fs.existsSync(files.body) && fs.existsSync(files.meta)) {
     const meta = JSON.parse(fs.readFileSync(files.meta, 'utf8'));
-    return send(res, meta.status, {...meta.headers, 'x-mirror-source':'local-cache'}, fs.readFileSync(files.body), url.pathname);
+    // Older builds accidentally cached 206 Range responses (sometimes ONE
+    // BYTE) as complete pages. Never serve those poisoned cache entries.
+    if (meta.status === 200 && !meta.headers['content-range']) {
+      return send(res, meta.status, {...meta.headers, 'x-mirror-source':'local-cache'}, fs.readFileSync(files.body), url.pathname);
+    }
   }
   try {
     const chunks=[];
@@ -85,7 +99,7 @@ const server = http.createServer(async (req, res) => {
       headers,
       body: ['GET','HEAD'].includes(req.method) ? undefined : input,
       redirect:'manual',
-      signal:AbortSignal.timeout(isMusicMedia ? 120000 : 30000)
+      signal:AbortSignal.timeout(isMusicMedia || /^\/(games|gamefile|tools|extra)\//.test(url.pathname) ? 180000 : 45000)
     });
     // Audio players request partial content and may seek repeatedly. Relay the
     // original 206 response, Content-Range, and audio stream without buffering
@@ -102,15 +116,42 @@ const server = http.createServer(async (req, res) => {
       stream.pipe(res);
       return;
     }
-    const body=Buffer.from(await upstream.arrayBuffer());
     const outHeaders=safeHeaders(upstream.headers);
     if (upstream.status >= 300 && upstream.status < 400) {
       let location = upstream.headers.get('location') || '/';
       if (location.startsWith(ORIGIN)) location = location.slice(ORIGIN.length) || '/';
       outHeaders.location=location;
     }
-    // Cache the original public page or asset, not large streamed games/proxy pages.
-    if (cacheable && upstream.ok && body.length < MAX_CACHE_BYTES && !url.searchParams.has('url')) {
+    // Buffer only small responses. Large WASM/game files used to be held in
+    // memory in full, causing proxy timeouts and out-of-memory failures.
+    const responseChunks=[];
+    let size=0, streaming=false;
+    if (upstream.body && req.method !== 'HEAD') {
+      for await (const chunk of upstream.body) {
+        if (res.destroyed) break;
+        if (!streaming) {
+          responseChunks.push(Buffer.from(chunk));
+          size += chunk.length;
+          if (size <= MAX_CACHE_BYTES) continue;
+          streaming=true;
+          // Streaming responses do not know their final decoded length.
+          // Range responses keep their Content-Range and 206 status.
+          res.writeHead(upstream.status, outHeaders);
+          for (const buffered of responseChunks) {
+            if (!res.write(buffered)) await once(res, 'drain');
+          }
+          responseChunks.length=0;
+        } else if (!res.write(chunk)) await once(res, 'drain');
+      }
+    }
+    if (streaming) { if (!res.destroyed) res.end(); return; }
+    if (res.destroyed) return;
+    const body=Buffer.concat(responseChunks, size);
+    // Only complete 200 GETs can be reused; 206 responses MUST NOT poison
+    // the cache even if requested with a Range of just one byte.
+    if (cacheable && !req.headers.range && upstream.status === 200 &&
+        !upstream.headers.has('content-range') && body.length < MAX_CACHE_BYTES &&
+        !url.searchParams.has('url')) {
       fs.mkdirSync(path.dirname(files.body), {recursive:true});
       fs.mkdirSync(path.dirname(files.meta), {recursive:true});
       fs.writeFileSync(files.body, body);
