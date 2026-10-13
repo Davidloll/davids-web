@@ -71,6 +71,11 @@ const server = http.createServer(async (req, res) => {
   if (url.pathname === '/branding.js') {
     return send(res, 200, {'content-type':'application/javascript; charset=utf-8', 'cache-control':'no-store'}, fs.readFileSync(path.join(__dirname, 'branding.js')));
   }
+  // Host the launch page on our own isolated HTTPS origin. A Google Sites
+  // embed itself cannot grant the game proxy a first-party service worker.
+  if (url.pathname === '/davids-web-launcher.html') {
+    return send(res, 200, {'content-type':'text/html; charset=utf-8', 'cache-control':'no-store'}, fs.readFileSync(path.join(__dirname, 'davids-web-launcher.html')), url.pathname);
+  }
   // The original ad loader injects two external advertising scripts. Never
   // serve it, even if an old page or browser cache still requests this path.
   if (url.pathname === '/js/ads.js') {

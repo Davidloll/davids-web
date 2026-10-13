@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Opening DAVIDS WEB</title>
+  <style>
+    html, body { min-height: 100%; margin: 0; }
+    body { display: grid; place-items: center; background: #0e1b1b; color: #fff; font: 16px Arial, sans-serif; }
+    main { text-align: center; padding: 2rem; max-width: 32rem; }
+    button { background: #1b2e2e; color: white; border: 2px solid #65cbea; border-radius: 12px; padding: 14px 24px; font: 600 18px Arial, sans-serif; cursor: pointer; }
+    button:hover { background: #294343; }
+    p { line-height: 1.45; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>DAVIDS WEB</h1>
+    <p id="status">Opening your about:blank tab…</p>
+    <button id="launch" type="button">Open DAVIDS WEB in about:blank</button>
+    <p>If the tab does not open automatically, allow pop-ups and click the button above.</p>
+  </main>
+  <script>
+    (function () {
+      const site = 'https://davids-web.onrender.com/';
+      const status = document.getElementById('status');
+      function launch() {
+        const tab = window.open('about:blank', '_blank');
+        if (!tab) {
+          status.textContent = 'Pop-up blocked. Allow pop-ups, then click the button.';
+          return;
+        }
+        try {
+          tab.document.title = 'DAVIDS WEB';
+          tab.document.documentElement.style.cssText = 'width:100%;height:100%;margin:0;background:#0e1b1b';
+          tab.document.body.style.cssText = 'width:100%;height:100%;margin:0;overflow:hidden';
+          const frame = tab.document.createElement('iframe');
+          frame.src = site;
+          frame.title = 'DAVIDS WEB';
+          frame.allow = 'autoplay; fullscreen; gamepad; cross-origin-isolated';
+          frame.style.cssText = 'display:block;width:100%;height:100%;border:0';
+          tab.document.body.replaceChildren(frame);
+          tab.opener = null;
+          status.textContent = 'DAVIDS WEB opened in a new tab.';
+          // A launcher opened by the Google Sites link can close itself.
+          setTimeout(() => window.close(), 350);
+        } catch (error) {
+          status.textContent = 'The new tab could not be set up. Please try again.';
+          tab.close();
+        }
+      }
+      document.getElementById('launch').addEventListener('click', launch);
+      window.addEventListener('load', launch, { once: true });
+    })();
+  </script>
+</body>
+</html>
