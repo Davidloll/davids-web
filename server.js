@@ -168,13 +168,62 @@ const server = http.createServer(async (req, res) => {
       'This part of the mirror could not be loaded from truffled.lol. Please try again when the original site is reachable.\n'+err.message);
   }
 });
+// Default: keep the proven upstream WISP tunnel. On an opt-in canary only,
+// run WISP locally so the browser's WebSocket has no extra Truffled TLS hop.
+const WISP_MODE = process.env.WISP_MODE === 'local' ? 'local' : 'relay';
+const WISP_TEST_HOST = process.env.WISP_TEST_HOST || '';
+let localWisp;
+if (WISP_MODE === 'local') {
+  if (!WISP_TEST_HOST) throw new Error('WISP_TEST_HOST must be set in local mode');
+  localWisp = require('@mercuryworkshop/wisp-js/server').server;
+  localWisp.options.dns_method = 'resolve';
+  localWisp.options.dns_servers = ['1.1.1.1', '1.0.0.1', '8.8.8.8', '8.8.4.4'];
+  localWisp.options.dns_result_order = 'ipv4first';
+  localWisp.options.allow_udp_streams = true;
+  localWisp.options.allow_private_ips = false;
+  localWisp.options.allow_loopback_ips = false;
+  localWisp.options.stream_limit_total = 96;
+  // In wisp-js 0.4.1 this particular per-host option throws on first use.
+  localWisp.options.stream_limit_per_host = -1;
+}
+let activeLocalWisp = 0;
+const activePerIp = new Map();
 server.on('upgrade', (req, socket, head) => {
-  // Relay the original site's WISP connection so its browser/search backend
-  // still works from this mirrored origin. No WebSocket payload is modified.
   if (!req.url.startsWith('/wisp/')) {
     socket.end('HTTP/1.1 404 Not Found\r\nConnection: close\r\n\r\n');
     return;
   }
+  if (WISP_MODE === 'local') {
+    // This is intentionally limited to the named canary service. A production
+    // WISP deployment needs additional abuse controls and a security review.
+    const expectedOrigin = WISP_TEST_HOST.startsWith('127.0.0.1:')
+      ? 'http://' + WISP_TEST_HOST : 'https://' + WISP_TEST_HOST;
+    if (req.headers.host !== WISP_TEST_HOST || req.headers.origin !== expectedOrigin) {
+      socket.end('HTTP/1.1 403 Forbidden\r\nConnection: close\r\n\r\n');
+      return;
+    }
+    const ip = String(req.headers['x-forwarded-for'] || socket.remoteAddress || '').split(',')[0].trim();
+    if (activeLocalWisp >= 16 || (activePerIp.get(ip) || 0) >= 4) {
+      socket.end('HTTP/1.1 429 Too Many Requests\r\nConnection: close\r\n\r\n');
+      return;
+    }
+    activeLocalWisp++;
+    activePerIp.set(ip, (activePerIp.get(ip) || 0) + 1);
+    let released = false;
+    const release = () => {
+      if (released) return;
+      released = true;
+      activeLocalWisp--;
+      const remaining = (activePerIp.get(ip) || 1) - 1;
+      if (remaining) activePerIp.set(ip, remaining);
+      else activePerIp.delete(ip);
+    };
+    socket.once('close', release);
+    try { localWisp.routeRequest(req, socket, head); }
+    catch (error) { console.error('Local WISP upgrade:', error); release(); socket.destroy(); }
+    return;
+  }
+  // Normal mode relays the original WISP connection with no payload changes.
   const remote = tls.connect({host:'truffled.lol', port:443, servername:'truffled.lol'});
   const fail = () => { socket.destroy(); remote.destroy(); };
   remote.on('error', fail);
